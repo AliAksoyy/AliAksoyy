@@ -1,0 +1,221 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(228, 232, 236);
+
+}
+.header {
+    /* height: 10vh; */
+    /* border: 2px solid red; */
+    display: flex;
+    padding: 2rem;
+    justify-content: space-evenly;
+
+}
+.header1 {
+   width: 20%;
+   /* display: flex; */
+   /* align-items: center; */
+   
+}
+.header2 {
+    width: 40%;
+}
+.header1 h2 {
+font-size: 2rem;
+}
+.header2 p,h2{
+    font-size: 1.3rem;
+
+}
+.header2 p{
+    font-weight: 300;
+    
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-left: 7rem;
+    padding: 0.5rem;
+    
+
+}
+.foto {
+    width: 30%;
+    height: 15%;
+    /* border: 2px solid red; */
+    display: flex;
+    flex-wrap: wrap;
+    /* align-items: center; */
+    margin-bottom: 6rem;
+    
+    
+    
+    
+}
+.img {
+    width: 70%;
+    
+    
+   
+
+}
+.vertical {
+    width: 30%;
+    border: 2px solid red;
+    position: relative;
+}
+.bottom {
+    width: 70%;
+}
+.img img{
+    width: 90%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px rgb(105, 103, 103);
+    transition: all 2.5s ease-in-out;
+    cursor: pointer;
+}
+.img img:hover {
+    transform: scale(1.1);
+    box-shadow: 10px 10px 10px rgb(70, 68, 68);
+    
+}
+
+
+
+.bottom p {
+    padding:1rem 0rem;
+    font-size: 1.2rem;
+    font-weight: 600;
+
+}
+
+.foto2 {
+   margin-top: 3rem; 
+}
+.foto5 {
+   margin-top: 3rem; 
+}
+.vertical1 p {
+    transform: rotate(90deg);
+    border: 2px solid red;
+    position: absolute;
+    top: 50px;
+    left: -55px;
+    font-weight: 600;
+}
+.vertical2 p {
+    transform: rotate(90deg);
+    /* border: 2px solid red; */
+    position: absolute;
+    top: 40px;
+    left: -45px;
+    font-weight: 600;
+}
+.vertical3 p {
+    transform: rotate(90deg);
+    /* border: 2px solid red; */
+    position: absolute;
+    top: 30px;
+    left: -35px;
+    font-weight: 600;
+}
+.vertical4 p {
+    transform: rotate(90deg);
+    /* border: 2px solid red; */
+    position: absolute;
+    top: 40px;
+    left: -45px;
+    font-weight: 600;
+}
+.vertical5 p {
+    transform: rotate(90deg);
+    /* border: 2px solid red; */
+    position: absolute;
+    top: 35px;
+    left: -35px;
+    font-weight: 600;
+}
+.vertical6 p {
+    transform: rotate(90deg);
+    /* border: 2px solid red; */
+    position: absolute;
+    top: 35px;
+    left: -35px;
+    font-weight: 600;
+}
+
+@media (max-width:800px) {
+    .foto {
+        width:50%;
+    }
+    .vertical p {
+    font-size: 0.75rem;
+    margin-left: 1rem;
+    }
+    .foto2,.foto4, .foto6{
+        margin-top: 3rem;
+    }
+    .foto5 {
+        margin-top:0px;
+    }
+    .container {
+        margin-left: 5rem;
+    }
+    .header1  {
+        width: 50%;
+        
+        
+     }
+    .header2 h2  {
+        font-size: 1.2rem;
+        
+        
+     }
+    .header2 p  {
+        font-size: 1.2rem;
+        
+        
+     }
+     
+}
+@media (max-width:600px) {
+     .foto {
+        width: 70%;
+     }  
+     /* .container p {
+        font-size:0.8rem ;
+     } */
+     .header {
+        display:block
+     }
+     .header1 {
+        width: 100%;
+        /* border: 2px solid red; */
+        display: block;
+        text-align: center;
+     }
+     .header2 {
+        width: 100%;
+     }
+     .header1 h2 {
+        font-size:1.1rem ;
+        
+        
+     }
+     .header2 h2  {
+        font-size:1rem ;
+        text-align: center;
+        
+     }
+     .header2 p  {
+        font-size:1rem ;
+        text-align: center;
+        
+     }
+}

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Netflix</title>
+</head>
+<body>
+    <main>
+        <header>
+         <h1>NET <span>FLIX</span></h1>
+         <p>Thank you for signing up at Netflix. Tell us more about yourself</p>
+        </header>
+        <form action="./result.html" method="get">
+            <div class="div1">
+                <label for="name">Name</label> <br> 
+                <input type="text" name="Girilen İsim" id="name" placeholder="Enter your name">
+            </div>
+            <div class="div2">
+                <label for="yas">Age</label> <br> 
+                <input type="number" name="Girilen Yas" id="yas" placeholder="Age" >
+            </div>
+            <div class="div3">
+                <label for="email">Email</label> <br>
+                <input type="email" name="Girilen E-mail" id="email" placeholder="Enter your email">
+            </div>
+            <div class="div4">
+                <label for="type">Content type</label> <br>
+                <select name="Türleri" id="type" size="1">
+                    <option value="Comedy">Comedy</option>
+                    <option value="Action">Action</option>
+                    <option value="Feared">Feared</option>
+                    <option value="Funny">Funny</option>
+                </select>
+            </div>
+            <div class="div5">
+                <p>Movie type</p> 
+                <input type="checkbox" name="movie1" id="Movie" value="Comedy">
+                <label for="Movie">Comedy</label>  <br>
+                <input type="checkbox" name="movie2" id="Action" value="Action">
+                <label for="Action">Action</label> <br>
+                <input type="checkbox" name="movie3" id="Romance" value="Romance">
+                <label for="Romance">Romance</label>  <br>
+            </div>
+            <div class="div6">
+                <p>Gender</p> 
+                <input type="radio" name="gender" id="Male" value="Male">
+                <label for="Movie">Male</label>  <br>
+                <input type="radio" name="gender" id="Female" value="Female">
+                <label for="Action">Female</label>  <br>
+                <input type="radio" name="gender" id="Other" value="Other">
+                <label for="Romance">Other</label>  <br>
+            </div>
+            <div class="div7">
+                <label for="feed">Feed back</label> <br>
+                <textarea style="resize:none" name="Yorumlarınız" id="yorum" cols="30" rows="10" placeholder="Any comments"></textarea>
+            </div>
+            <div class="div8">
+                <input type="button" value="Gönder">
+            </div>
+               
+        </form>
+    </main>
+
+</body>
+</html>

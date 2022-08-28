@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@400;600&family=Lobster&family=Poppins:ital,wght@0,400;0,600;0,900;1,200;1,300;1,800&family=Roboto:ital,wght@0,300;1,100;1,300&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body {
+    background-color:rgb(25, 21, 26);
+    margin: 4rem;
+}
+.container {
+    /* border: 2px solid red; */
+    width: 100%;
+    height: 100vh;
+}
+.header {
+    /* border: 2px solid green; */
+    width: 100%;
+    margin-bottom: 30px;
+}
+.logo img {
+    border-radius: 25px;
+}
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 25px;
+    padding: 10px;
+}
+.nav {
+    margin-left: 600px;
+}
+.nav a {
+    text-decoration: none;
+    margin: 100px 30px;
+    padding: 1rem;
+    color: black;
+    font-size: 1.5rem;
+    font-weight: thick;
+    border: 2px solid rgb(114, 106, 93);
+    background-color: rgb(134, 125, 121);
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px 3px rgb(7, 49, 77);
+}
+.icon {
+    font-size: 35px;
+    font-weight: 300;
+    color: azure;
+}
+.nav a:hover {
+    background-color: rgb(192, 119, 70);
+    color: white;
+    opacity: .7;
+    padding-right: 20px;
+    text-decoration: underline;
+}
+/* row satırana geçiyoruz iki sütunlu yapacağız */
+.content {
+    /* border: 2px solid blue; */
+    width: 100%;
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-around;
+}
+.col-1 {
+    border: 2px solid green;
+    padding: 4rem;
+    width: 100%;
+
+}
+h1 {
+    font-size: 60px;
+    color: rgb(238, 232, 228);
+    margin-left: 30%;
+    margin-bottom: 50px;
+}
+span {
+    color: rgb(77, 32, 241);
+    font-size: 80px;
+    margin-left: 120px;
+}
+p {
+    font-size: 30px;
+    margin: auto;
+    padding: 15px;
+    color: whitesmoke;
+    margin-left: 50px;
+    
+}
+.link {
+    font-size: 30px;
+    border: 2px solid rgb(33, 36, 231);
+    color: rgb(250, 249, 243);
+    background-color: rgb(46, 45, 39);
+    border-radius: 20px;
+    padding: 15px;
+    /* margin-top: 20px; */
+    margin-left:70%;
+    position: relative;
+    top: 20px;
+    transition: all 1s;
+
+    
+}
+.link:hover {
+    background-color: rgb(69, 64, 85);
+    color: rgb(211, 94, 39);
+    padding: 11px;
+    font-size:18px;
+    box-shadow: 2px 2px 2px rgb(20, 20, 19);
+    text-decoration: none;
+}
+.col-2 {
+    position: relative;
+    width: 650px;
+    height: 400px;
+}
+.col-2 .img2 {
+    position:absolute;
+    top: 0px;
+    left: 0;
+    opacity: .36;
+    width: 640px;
+    height: 460px;
+
+}
+.col-1 a {
+    text-decoration: none;
+}
+
+

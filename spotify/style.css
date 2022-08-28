@@ -1,0 +1,210 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Helvetica,Arial,sans-serif;
+}
+header{
+    background-color: black;
+    width: 100vw;
+    height: 100px;
+    padding: 1px;
+}
+.logo{
+    margin:25px 0px 50px 40px;
+}
+.logo img{
+    width:150px;
+}
+.logo, .links1 , .links2{
+    display: inline-block;
+    float: left;
+    /* border:1px solid red; */
+}
+.links1 , .links2{
+    margin-top: 40px;
+}
+.links1 {
+    margin-left: 500px;
+    border-right: 1px solid white;
+}
+.links1 a{
+    color:white;
+    text-decoration: none;
+    padding: 10px;
+    margin:10px;
+    font-weight: bolder;
+}
+.links1 a:hover{
+    color: #1ED760;
+}
+.links2 a{
+    color:#d9dadc;
+    text-decoration: none;
+    padding: 10px;
+    margin:10px;
+    font-weight: bolder;
+}
+.links2 a:hover{
+    color: #1ED760;
+}
+main{
+    background-image: url("https://www-growth.scdn.co/static/home/bursts-tablet.svg");
+    background-color: rgb(41, 65, 171);
+    height: 500px;
+}
+.content{
+    width:650px;
+    margin:auto;
+    text-align: center;
+    /* border:1px solid red; */
+    padding-top: 150px;
+}
+.content h1{
+    font-size: 80px;
+    color: #1ED760;
+}
+.content p{
+    margin-top:20px;
+    color: #1ED760;
+    font-size: 1.2rem;
+}
+.freelink{
+    padding-top: 20px;
+}
+.freelink a{
+    font-weight: 800;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: #1ED760;
+    padding: 10px;
+    border-radius: 15px;
+    color:rgb(41, 65, 171);
+    outline: 2px solid white;
+}
+.freelink a:hover{
+    font-size: 1.15rem;
+    outline:1px solid white;
+    outline-offset: -10px;
+}
+footer{
+    background-color: black;
+    color:gray;
+    padding: 5px;
+   }
+aside img{
+    width:150px;
+}
+/*BURADA KALDIK*/
+.left , .foot , .right{
+    display: inline-block;
+    float:left;
+    /* border:1px solid red; */
+}
+.left img{
+    margin-left: 50px;
+}
+.left{
+    margin-top: 80px;
+}
+.foot{
+    margin-left: 100px;
+    padding-top:70px;
+}
+.right{
+    margin-left:100px;
+    padding: 3px;
+    margin-top: 80px;
+}
+.right ul li{
+    display: inline-block;
+    list-style-type: none;
+    padding: 10px;
+}
+.right ul li a{
+    color:white;
+    font-size: 30px;
+    padding: 5px;
+    background-color: gray;
+    border-radius: 50%;
+}
+.right ul li a:hover{
+    color:#1ed760;
+}
+.col-1 , .col-2 , .col-3{
+    display: inline-block;
+    float: left;
+    margin:20px 50px;
+}
+h4{
+    margin-bottom: 20px;
+}
+.col-1 ul li{
+    list-style-type: none;
+    margin:10px 0px;
+    padding: 3px;
+}
+.col-1 ul li a{
+    text-decoration: none;
+    color: white;
+}
+.col-1 ul li a:hover{
+    text-decoration: underline;
+    color: #1ED760;
+}
+.col-2 ul li{
+    list-style-type: none;
+    margin:10px 0px;
+    padding: 3px;
+}
+.col-2 ul li a{
+    text-decoration: none;
+    color: white;
+}
+.col-2 ul li a:hover{
+    text-decoration: underline;
+    color: #1ED760;
+}
+.col-3 ul li{
+    list-style-type: none;
+    margin:10px 0px;
+    padding: 3px;
+}
+.col-3 ul li a{
+    text-decoration: none;
+    color: white;
+}
+.col-3 ul li a:hover{
+    text-decoration: underline;
+    color: #1ED760;
+}
+.bottom{
+    margin-top:50px;
+}
+.bleft , .bright{
+    display: inline-block;
+}
+.bleft{
+    margin: 0px 0px 75px 75px;
+}
+.bleft a{
+    text-decoration: none;
+    color: grey;
+    padding-left: 10px;
+    margin-left: 15px;
+    font-size: 0.7rem;
+}
+.bleft a:hover{
+    color: #1ED760;
+}
+.bright{
+    margin-left: 550px;
+}
+.bright a{
+ color: grey;;
+ text-decoration: none;
+ font-size: 0.8rem;
+}
+.bright span{
+    font-size: 0.8rem;
+}
