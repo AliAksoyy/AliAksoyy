@@ -57,8 +57,16 @@ function setBgGreet() {
         document.body.style.color = 'white'
     }
 
+}
 
+// Get Name
 
+function getName() {
+    if(localStorage.getItem('name') === null) {
+        name.textContent = '[Enter Name]';
+    } else {
+        name.textContent = localStorage.getItem('name')
+    }
 }
 
  // run
