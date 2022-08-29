@@ -69,6 +69,10 @@ function getName() {
     }
 }
 
+// Set Name
+
+
+
 // focus
 function getFocus() {
     if(localStorage.getItem('focus') === null) {
@@ -77,6 +81,9 @@ function getFocus() {
         focus.textContent = localStorage.getItem('focus')
     }
 }
+
+name.addEventListener('keypress',setName)
+name.addEventListener('blur',setName)
 
  // run
     showTime();
