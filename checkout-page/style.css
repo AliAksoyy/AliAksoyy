@@ -1,4 +1,120 @@
 @font-face {
-font-family: “Montesserat”;
+font-family: Montesserat;
 src: url(‘fonts/Montserrat-Regular.ttf’) format(“truetype”);
 }
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+    font-family: Montesserat;
+}
+.container{
+    width: 75%;
+    margin: 1rem auto;
+    padding: 3rem;
+    border:2px solid brown;
+}
+.container h1{
+ text-align: center;
+}
+.row{
+    border:2px solid red;
+    margin-top:2rem;
+    display:flex;
+    justify-content: space-evenly;
+    padding: 1rem;
+}
+.col-left, .col-right{
+    width:45%;
+}
+.contact , .shipping , .btn {
+    margin-top: 2rem;
+}
+.wrapper{
+    opacity: 0.5;
+    position: relative;
+    margin-bottom: 0.5rem;
+}
+.wrapper i{
+    position: absolute;
+    top:10px;
+    left:5px;
+}
+.wrapper input{
+    width:100%;
+    padding:5px 0 5px 25px;
+    line-height: 1.5rem;
+}
+.email{
+    margin: 1rem 0;
+}
+.email label{
+    display: block;
+    margin-bottom:0.5rem;
+}
+ .phone label{
+    display: block;
+    margin-bottom:0.5rem;
+ }
+
+ .shipping h2 {
+    margin-bottom: 1rem;
+ }
+
+ .fullname label {
+    display: block;
+    margin-bottom: 0.5rem;
+ }
+ 
+ .address label {
+    display: block;
+    margin-bottom: 0.5rem;
+ }
+ .city label {
+    display: block;
+    margin-bottom: 0.5rem;
+ }
+ .country-code {
+    display: flex;
+    justify-content: space-between;
+ }
+
+ .post-code {
+    width: 70%;
+ }
+
+ .country {
+    width: 27%;
+ }
+ .country select {
+    width: 100%;
+    padding: 0.5rem 0 0.5rem 1.3rem;
+ }
+
+ .post-code label {
+    display: block;
+    margin-bottom: 0.5re;
+ }
+ .country label {
+    display: block;
+    margin-bottom: 0.5re;
+ }
+
+ .col-left label {
+    opacity: 0.7;
+ }
+
+ .btn {
+    display: flex;
+    justify-content: flex-end;
+ }
+ .btn button {
+    background-color:rgb(236, 170, 46);
+    padding: 0.5rem;
+    border-radius: 15px;
+    color: beige;
+    font-size: 1.1rem;
+    border: none;
+    cursor: pointer;
+    box-shadow: 1px 1px 10px gray;
+ }
