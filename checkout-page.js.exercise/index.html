@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+    <title>Checkout-Form</title>
+</head>
+<body>
+        <div class="container">
+            <h1>Checkout!</h1>
+            <div class="row">
+                <div class="col-right">
+                    <div class="product1">
+                        <div class="image">
+                            <img src="./img/photo1.png" alt="">
+                        </div>
+                        <div class="product-info">
+                            <div class="price">
+                            <h3>Vintage Backbag</h3>
+                              <p>$25.99 <del>$34.99</del> </p> 
+                             </div>
+                            <div class="counter">
+                            <button class="buttonMinus1">-</button>
+                            <p class="quantity1">1</p>
+                            <button class="buttonAdd1">+</button>
+                            </div>
+                             <div>
+                            <button class="remove" id="remove-1">Remove</button>
+                             </div>
+                             <p>Product Total :<span id="product-1"> $25.99</span></p>
+                             </div>
+                        
+                    </div>
+                    <div class="product2">
+                        <div class="image">
+                            <img src="./img/photo2.png" alt="">
+                        </div>
+                        <div class="product-info">
+                           <div class="price">
+                            <h3>Levi Shoes</h3>
+                              <p>$45.99 <del>$54.99</del> </p> 
+                        </div>
+                        <div class="counter">
+                            <button class="buttonMinus2">-</button>
+                            <p class="quantity2">1</p>
+                            <button class="buttonAdd2">+</button>
+                        </div>
+                        <div>
+                            <button class="remove" id="remove-2">Remove</button>
+                        </div>
+                        <p>Product Total :<span id="product-2"> $45.99</span></p> 
+                        </div>
+                        
+                    </div>
+                    <div class="product3">
+                        <div class="image">
+                            <img src="./img/photo3.jpg" alt="">
+                        </div>
+                        <div class="product-info">
+                          <div class="price">
+                            <h3>Antique Clock</h3>
+                              <p>$74.99 <del>$124.99</del> </p> 
+                        </div>
+                        <div class="counter">
+                            <button class="buttonMinus3">-</button>
+                            <p class="quantity3">1</p>
+                            <button class="buttonAdd3">+</button>
+                        </div>
+                        <div>
+                            <button class="remove" id="remove-3">Remove</button>
+                        </div>
+                        <p>Product Total :<span id="product-3"> $74.99</span></p>  
+                        </div>
+                        
+                    </div>
+                    <div class="result">
+                        
+                        <div class="result-subtotal">
+                            <p>Subtotal <span class="subsum">$148.99</span></p>
+                        </div>
+                        <div class="result-tax">
+                            <p>Tax(%18) <span class="tax">$148.99</span></p>
+                        </div>
+                        <div class="result-shipping">
+                            <p>Shipping <span class="ship">$19</span></p>
+                        </div>
+                        <div class="result-total">
+                            <p>Total <span class="total">$148.99</span></p>
+                        </div>
+
+                    </div>
+            </div>
+        </div>
+        <script src="./main.js"></script>
+</body>
+</html>

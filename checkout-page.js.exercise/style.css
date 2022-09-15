@@ -1,0 +1,176 @@
+@font-face {
+font-family: Montesserat;
+src: url(‘fonts/Montserrat-Regular.ttf’) format(“truetype”);
+}
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+    font-family: Montesserat;
+}
+.container{
+    width: 75%;
+    margin: 1rem auto;
+    padding: 3rem;
+    /* border:2px solid brown;  */
+}
+.container h1{
+ text-align: center;
+}
+.row{
+    /* border:2px solid red; */
+    margin-top:2rem;
+    display:flex;
+
+    justify-content: center;
+    padding: 1rem;
+    
+}
+
+/*LEFT COLUMN*/
+
+ /*RIGHT COLUMN*/
+.col-right{
+    background-color: #EEEEEE;
+    padding: 1.5rem;
+    border-radius: 1.5rem;
+    /* height: 65%; */
+    margin-top: 2rem;
+    width:40%;
+    
+}
+.hidden {
+    display: none;
+}
+/* .product1{
+    display:grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-areas: "image price"
+                        "image counter";
+    grid-gap:.5rem;
+} */
+.price{
+    grid-area: price;
+}
+.price p{
+    margin-top:0.5rem;
+    font-size: 1.3rem;
+    color:#F2994A
+}
+.price del{
+    color:black;
+    font-size: 1rem;
+    opacity: 0.8;
+}
+.counter{
+    border: 1px solid gray;
+    border-radius: 5px;
+    grid-area: counter;
+    display: flex;
+    justify-content: space-around;
+    width:7rem;
+    height: 2.5rem;
+    padding:0.5rem;
+}
+.counter button{
+    width: 1rem;
+    border:none;
+    background-color: rgb(187, 186, 186);
+    border-radius: 3px;
+    font-weight: bolder;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+.counter p{
+    font-weight: lighter;
+    font-size: 0.9rem;
+}
+.image{
+    grid-area:image;
+}
+.image img{
+    width: 9rem;
+    height:12rem;
+    border-radius:15px;
+}
+/* .product2{
+    display:grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-areas: "image price"
+                        "image counter";
+    grid-gap:.5rem;
+    margin-top: 1rem;
+} */
+.product3, .product2, .product1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 2rem;
+    margin-bottom: 2rem;
+}
+.product-info {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1rem;
+}
+.remove {
+    width: 4rem;
+    border: none;
+    background-color: rgb(167, 49, 49);
+    padding: 0.5rem;
+    color: white;
+    border-radius: 10px;
+}
+.result{
+    margin-top: 3rem;
+}
+.result-shipping, .result-subtotal, .result-tax{
+    border-top: .2px solid darkgray;
+    margin-top: 0.5rem;
+}
+.result-shipping p{
+    display: flex;
+    justify-content: space-between;
+    font-size:1.2rem;
+    font-weight: lighter;
+    opacity: 0.8;
+}
+.result-subtotal p{
+    display: flex;
+    justify-content: space-between;
+    font-size:1.2rem;
+    font-weight: lighter;
+    opacity: 0.8;
+}
+.result-tax p{
+    display: flex;
+    justify-content: space-between;
+    font-size:1.2rem;
+    font-weight: lighter;
+    opacity: 0.8;
+}
+
+.result-total{
+    margin-top: 0.5rem;
+     border-top: .2px solid darkgray;
+}
+.result-total p{
+    display: flex;
+    justify-content: space-between;
+    font-size:1.2rem;
+    font-weight: lighter;
+    opacity: 0.8;
+}
+/*Responsive Design*/
+@media screen and (max-width:950px){
+    .row{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .col-left , .col-right {
+        width: 90%;
+        margin: auto;
+    }
+}
