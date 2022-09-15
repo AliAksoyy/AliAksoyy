@@ -34,8 +34,20 @@ let countershoes = 1
 let counterclock = 1
 let subtotal = 0
 let totalling =0
+let sayac = 3
 
+// * functions
+const calculate = function() {
+    subtotal = price1 + price2 + price3;
+    taxxing = subtotal * 0.18;
+    totalling = subtotal + shipping + taxxing;
+    subsum.innerText = `$${Number(subtotal.toFixed(2))}`;
+    tax.innerText = `$${Number(taxxing.toFixed(2))}`;
+    ship.innerText = `$${shipping}`;
+    total.textContent = `$${totalling.toFixed(2)}`;
+}
 
+   
 
   // *EVENTS
   btnaddbag.addEventListener("click", () => {
@@ -43,16 +55,7 @@ let totalling =0
     price1 = 25.99 * counterbag
     qntbag.textContent= counterbag
     productbag.innerText = `$${Number(price1.toFixed(2))}`
-    subtotal = price1 + price2 + price3
-      taxxing = subtotal * 0.18;
-      totalling = subtotal + shipping + taxxing;
-      subsum.innerText = `$${Number(subtotal.toFixed(2))}`;
-      tax.innerText = `$${Number(taxxing.toFixed(2))}`;
-      ship.innerText = `$${shipping}`;
-             total.textContent = `$${totalling.toFixed(2)}`;
-
-    
-
+    calculate()
   });
 
   btnminusbag.addEventListener("click", () => {
@@ -64,33 +67,21 @@ let totalling =0
     price1 = 25.99 * counterbag;
     qntbag.textContent = counterbag;
     productbag.innerText = `$${Number(price1.toFixed(2))}`;
-    subtotal = price1 + price2 + price3;
-    subsum.innerText = `$${Number(subtotal.toFixed(2))}`;
-      taxxing = subtotal * 0.18;
-      totalling = subtotal + shipping + taxxing;
-      subsum.innerText = `$${Number(subtotal.toFixed(2))}`;
-      tax.innerText = `$${Number(taxxing.toFixed(2))}`;
-      ship.innerText = `$${shipping}`;
-           total.textContent = `$${totalling.toFixed(2)}`;
-
-
-    
+    calculate();
+         
   })
-
   remove1.addEventListener("click", () => {
     document.querySelector(".product1").setAttribute("class","hidden");
     price1 = 0;
-    subtotal = price1 + price2 + price3;
-    subsum.innerText = `$${Number(subtotal.toFixed(2))}`;
-    taxxing = subtotal * 0.18;
-    totalling = subtotal + shipping + taxxing;
-    subsum.innerText = `$${Number(subtotal.toFixed(2))}`;
-    tax.innerText = `$${Number(taxxing.toFixed(2))}`;
-    ship.innerText = `$${shipping}`;
-    total.textContent = `$${totalling.toFixed(2)}`;
     
-    
-    
+    calculate();
+    sayac--;
+    if(!sayac) {
+        shipping=0;
+        totalling= 0;
+       ship.textContent = `$0`;
+       total.textContent = `$0`;
+    }
   })
 
   btnaddshoes.addEventListener("click", () => {
@@ -98,16 +89,8 @@ let totalling =0
     price2 = 45.99 * countershoes
     qntshoes.textContent= countershoes
     productshoes.innerText = `$${Number(price2.toFixed(2))}`
-    subtotal = price1 + price2 + price3;
-      taxxing = subtotal * 0.18;
-      totalling = subtotal + shipping + taxxing;
-      subsum.innerText = `$${Number(subtotal.toFixed(2))}`;
-      tax.innerText = `$${Number(taxxing.toFixed(2))}`;
-      ship.innerText = `$${shipping}`;
-             total.textContent = `$${totalling.toFixed(2)}`;
-
+    calculate();
     
-
   })
 
   btnminusshoes.addEventListener("click", () => {
@@ -119,26 +102,22 @@ let totalling =0
      price2 = 45.99 * countershoes;
      qntshoes.textContent = countershoes;
      productshoes.innerText = `$${Number(price2.toFixed(2))}`;
-     subtotal = price1 + price2 + price3;
-       taxxing = subtotal * 0.18;
-       totalling = subtotal + shipping + taxxing;
-       subsum.innerText = `$${Number(subtotal.toFixed(2))}`;
-       tax.innerText = `$${Number(taxxing.toFixed(2))}`;
-       ship.innerText = `$${shipping}`;
-             total.textContent = `$${totalling.toFixed(2)}`;
+    calculate();
+    
 
   })
    remove2.addEventListener("click", () => {
      document.querySelector(".product2").setAttribute("class", "hidden");
      price2 = 0;
-     subtotal = price1 + price2 + price3;
-     subsum.innerText = `$${Number(subtotal.toFixed(2))}`;
-     taxxing = subtotal * 0.18;
-     totalling = subtotal + shipping + taxxing;
-     subsum.innerText = `$${Number(subtotal.toFixed(2))}`;
-     tax.innerText = `$${Number(taxxing.toFixed(2))}`;
-     ship.innerText = `$${shipping}`;
-     total.textContent = `$${totalling.toFixed(2)}`;
+     calculate();
+      sayac--;
+      if (!sayac) {
+        shipping = 0;
+        totalling = 0;
+        ship.textContent = `$0`;
+        total.textContent = `$0`;
+      }
+
    });
 
   btnaddclock.addEventListener("click", () => {
@@ -146,17 +125,9 @@ let totalling =0
     price3 = 74.99 * counterclock
     qntclock.textContent = counterclock
     productclock.innerText = `$${Number(price3.toFixed(2))}`
-    subtotal = price1 + price2 + price3;
-      taxxing = subtotal * 0.18;
-      totalling = subtotal + shipping + taxxing;
-      subsum.innerText = `$${Number(subtotal.toFixed(2))}`;
-      tax.innerText = `$${Number(taxxing.toFixed(2))}`;
-      ship.innerText = `$${shipping}`;
-             total.textContent = `$${totalling.toFixed(2)}`;
-
+    calculate();
 
   })
-
   btnminusclock.addEventListener("click", () => {
     if(counterclock<=1) {
         counterclock = 1
@@ -166,27 +137,20 @@ let totalling =0
      price3 = 74.99 * counterclock;
      qntclock.textContent = counterclock;
      productclock.innerText = `$${Number(price3.toFixed(2))}`;
-     subtotal = price1 + price2 + price3;
-       taxxing = subtotal * 0.18;
-       totalling = subtotal + shipping + taxxing;
-       subsum.innerText = `$${Number(subtotal.toFixed(2))}`;
-       tax.innerText = `$${Number(taxxing.toFixed(2))}`;
-       ship.innerText = `$${shipping}`;
-       total.textContent = `$${totalling.toFixed(2)}`;
-
+    calculate();    
   })
-
   remove3.addEventListener("click", () => {
     document.querySelector(".product3").setAttribute("class", "hidden");
     price3 = 0;
-    subtotal = price1 + price2 + price3;
-    subsum.innerText = `$${Number(subtotal.toFixed(2))}`;
-    taxxing = subtotal * 0.18;
-    totalling = subtotal + shipping + taxxing;
-    subsum.innerText = `$${Number(subtotal.toFixed(2))}`;
-    tax.innerText = `$${Number(taxxing.toFixed(2))}`;
-    ship.innerText = `$${shipping}`;
-    total.textContent = `$${totalling.toFixed(2)}`;
+    calculate();
+     sayac--;
+     if (!sayac) {
+       shipping = 0;
+       totalling = 0;
+       ship.textContent = `$0`;
+       total.textContent = `$0`;
+     }
+    
   });
 
 
