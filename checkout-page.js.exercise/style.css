@@ -34,7 +34,7 @@ src: url(‘fonts/Montserrat-Regular.ttf’) format(“truetype”);
     background-color: #EEEEEE;
     padding: 1.5rem;
     border-radius: 1.5rem;
-    /* height: 65%; */
+    height:auto;
     margin-top: 2rem;
     width:40%;
     
