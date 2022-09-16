@@ -52,6 +52,10 @@
 
 - Media Query & Responsive Design
 
+- Js Dom Elements and Selectors
+
+-Js Event Handler
+
 ### At the end of the project, i will be able to;
 
 - improve coding skills within HTML & CSS
@@ -113,7 +117,7 @@ Feel free to check [issues page](https://github.com/kefranabg/readme-md-generato
 <!-- ------------------------------------------------------------------------------------- -->
 ## Author
 
-👤 **Yasin Sutoglu**
+👤 **Ali Aksoy**
 
 - Twitter: [@alifeyza4017](https://twitter.com/alifeyza4017)
 - Github: [@AliAksoyy](https://github.com/AliAksoyy)
