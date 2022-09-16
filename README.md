@@ -18,7 +18,6 @@
 
 
 <br>
-<br>
 
 ## 🌐 Socials:
 
@@ -33,18 +32,11 @@
 <img src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" alt=linkedin style="margin-bottom: 5px;" />
 </a> 
   
-<br/>  
 <br>
 
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,tailwind,react,py,django,bash,git,vscode,discord,theme=dark)](https://skillicons.dev)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mustafa-bilen&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mustafa-bilen&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-bilen&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
 
 <p>
  <a href="#" target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" alt="python" height="48"/></a> 
@@ -72,7 +64,6 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
 </p>
 
- 
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mustafa-bilen&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
