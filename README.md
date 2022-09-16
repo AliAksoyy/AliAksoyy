@@ -6,11 +6,22 @@
 ### <div align="center" >👋 I'm Ali, a full-time full-stack developer 👨‍💻 </div>  
   
 
- - :telescope: I’m currently working on  HTML, CSS , Sass, Bootstrap, JavaScript, React, Python, Django
+ - :telescope: I’m currently working on JavaScript | React | Bootstrap | SASS | HTML | CSS | Python | SQL | Linux | GİT
 
 - 🌱  I am happy to teach you what I knowand eager to learn what you will offer
 
+- 🌱 I’m currently learning everything  😄
+
 - 💞️  Slowly and steadily, I'm trying to be better than yesterday😉  
+
+- 👯 I’m looking to collaborate on more open source projects.
+
+🔗 &nbsp;**Connect with me**
+
+
+&nbsp;
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:melikecalis92@gmail.com)
+
   
 
 <a href="https://github.com/AliAksoyy" target="_blank">
