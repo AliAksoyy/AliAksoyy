@@ -77,55 +77,10 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufgozukara&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufgozukara&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p> -->
 
-<!--
-**yusufgozukara/yusufgozukara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif">
 
-<!--
-**serapo/serapo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-
-<h2> 👋   Hi there! I'm Serap ORAL...:wave: ✨ </h2>
-
- <img align="right" alt="GIF" src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/source.gif" width="500" height="320" />
-
-
-
--   - :telescope: I’m currently working on  HTML, CSS , Sass, Bootstrap, JavaScript, React, Django, PostgreSQL, MySQL
-
-- 🌱 - :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer
-- 💞️  Slowly and steadily, I'm trying to be better than yesterday😉
-- 💬  Ask me about: Anything!
-- 📫  How to reach me: 
 
 
 
@@ -135,50 +90,6 @@ Here are some ideas to get you started:
 </table>
 
 
-
-
-
-
-
-### <div align="center">👋 I'm Mustafa, a full-time full-stack developer 👨‍💻 </div>  
-  
-
-- 🔭 I’m currently student at [Clarusway](https://clarusway.com/)  
-  
-
-- 🌱 I’m currently learning full stack development  
-  
-
-- ❓ I'm 18 years old, from Turkey, life time learner
-  
-  
-
-- ⚡ I'm crazy with Naruto and video games.  
-  
-
-<a href="https://github.com/mustafa-bilen" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/mstbln" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
-
-<br/>  
-<br>
-
-## My Skill Set  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
-</div>  
 
 
 
