@@ -6,9 +6,9 @@
 ### <div align="center" >👋 I'm Ali, a full-time full-stack developer 👨‍💻 </div>  
   
 
-- 👀  - :telescope: I’m currently working on  HTML, CSS , Sass, Bootstrap, JavaScript, React, Python, Django
+ - telescope: I’m currently working on  HTML, CSS , Sass, Bootstrap, JavaScript, React, Python, Django
 
-- 🌱 : I am happy to teach you what I knowand eager to learn what you will offer
+- 🌱  I am happy to teach you what I knowand eager to learn what you will offer
 
 - 💞️  Slowly and steadily, I'm trying to be better than yesterday😉  
   
