@@ -6,17 +6,10 @@
 ### <div align="center" >👋 I'm Ali, a full-time full-stack developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently student at [Clarusway](https://clarusway.com/)  
-  
+- 👀  - :telescope: I’m currently working on  HTML, CSS , Sass, Bootstrap, JavaScript, React, Python, Django
 
-- 🌱 I’m currently learning full stack development  
-  
-
-- ❓ I'm 18 years old, from Turkey, life time learner
-  
-  
-
-- ⚡ I'm crazy with Naruto and video games.  
+- 🌱 - :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer
+- 💞️  Slowly and steadily, I'm trying to be better than yesterday😉  
   
 
 <a href="https://github.com/mustafa-bilen" target="_blank">
