@@ -71,6 +71,6 @@
 
   <div align="center">
   <a href="#" style="background:white;">
-    <img src="https://activity-graph.herokuapp.com/graph?username=AliAksoyy&theme=react-light" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=AliAksoyy&theme=react-lighter" />
   </a>
 </div>
