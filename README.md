@@ -18,24 +18,18 @@
 
 
 🔗 &nbsp;**Connect with me**
-
-
-&nbsp;
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:melikecalis92@gmail.com)
-
   
 
 <a href="https://github.com/AliAksoyy" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/ali-aksoy-bb0548199/" target="_blank">
-<img src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" alt=linkedin style="margin-bottom: 5px; background-color:yellow;" />
-</a> 
-<a href="https://www.linkedin.com/in/ali-aksoy-bb0548199/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
+<a href="https://mail.google.com/mail/u/1/#inbox" target="_blank">
+<img src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" alt=linkedin style="margin-bottom: 5px;" />
+</a> 
   
-
 <br/>  
 <br>
 ## 🚀 Skills
