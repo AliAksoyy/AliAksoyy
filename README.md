@@ -65,6 +65,52 @@
 </div>  
 <br/>  
 <br />
+## 📈 Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=yasinsutoglu&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasinsutoglu&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" />
+ </p>
+
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinsutoglu&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > 
+  </p>
+
+  <div align="center">
+  <a href="#">
+    <img src="https://activity-graph.herokuapp.com/graph?username=yasinsutoglu&theme=react-dark" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+<h3 align="left">📫 &nbsp;Feel Free to Contact me.....</h3>
+
+<p align="center">
+	<a href="https://github.com/yasinsutoglu"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/yasin-sutoglu-88066620b/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>	
+</p>
+
+<p align="center"><b> Thank You for visiting my profile 🙏</b></p>
+
+<div align="center">
+ <b style = {font-weight: 600}>Visitors Count</b>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{yasinsutoglu}/count.svg" /></p> 
+<br>
+</div>
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+  
 
 
 
@@ -135,48 +181,3 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 
-## 📈 Statistics
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yasinsutoglu&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasinsutoglu&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" />
- </p>
-
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinsutoglu&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > 
-  </p>
-
-  <div align="center">
-  <a href="#">
-    <img src="https://activity-graph.herokuapp.com/graph?username=yasinsutoglu&theme=react-dark" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-<h3 align="left">📫 &nbsp;Feel Free to Contact me.....</h3>
-
-<p align="center">
-	<a href="https://github.com/yasinsutoglu"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/yasin-sutoglu-88066620b/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>	
-</p>
-
-<p align="center"><b> Thank You for visiting my profile 🙏</b></p>
-
-<div align="center">
- <b style = {font-weight: 600}>Visitors Count</b>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{yasinsutoglu}/count.svg" /></p> 
-<br>
-</div>
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-  
