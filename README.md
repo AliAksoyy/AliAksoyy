@@ -55,6 +55,19 @@
 </p>
 <br> 
 
+
+  <div align="center">
+  <a href="#">
+    <img src="https://activity-graph.herokuapp.com/graph?username=AliAksoyy&theme=react-light" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=mustafa-bilen&&style=flat-square" align="center" />
 </div>  
