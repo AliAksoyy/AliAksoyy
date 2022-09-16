@@ -39,7 +39,6 @@
 <br>
 
 <p>
- <a href="#" target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" alt="python" height="48"/></a> 
  <a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="html" height="48"/></a> 
  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css" height="48"/> </a> 
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="48"/> </a>
@@ -51,6 +50,7 @@
  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="vs-code" height="48"/> </a>
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258720-2a39e2f4-cb61-4b1a-9303-db050ffaa003.png" height="48"/> </a>  
  <a href="#" target="_blank"> <img src="https://logos-marcas.com/wp-content/uploads/2021/03/Jira-Emblema.png" height="48"/> </a>
+   <a href="#" target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" alt="python" height="48"/></a> 
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
 </p>
 
