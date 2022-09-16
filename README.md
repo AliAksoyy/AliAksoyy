@@ -10,7 +10,7 @@
 
 - 🌱  I am happy to teach you what I knowand eager to learn what you will offer
 
-- 🌱 I’m currently learning everything  😄
+- 👀  I’m currently learning everything  😄
 
 - 💞️  Slowly and steadily, I'm trying to be better than yesterday😉  
 
@@ -129,7 +129,7 @@ Here are some ideas to get you started:
 
 
 
-- 👀  - :telescope: I’m currently working on  HTML, CSS , Sass, Bootstrap, JavaScript, React, Django, PostgreSQL, MySQL
+-   - :telescope: I’m currently working on  HTML, CSS , Sass, Bootstrap, JavaScript, React, Django, PostgreSQL, MySQL
 
 - 🌱 - :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer
 - 💞️  Slowly and steadily, I'm trying to be better than yesterday😉
