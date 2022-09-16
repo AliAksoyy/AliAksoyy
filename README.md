@@ -6,7 +6,7 @@
 ### <div align="center" >👋 I'm Ali, a full-time full-stack developer 👨‍💻 </div>  
   
 
- - telescope: I’m currently working on  HTML, CSS , Sass, Bootstrap, JavaScript, React, Python, Django
+ - :telescope: I’m currently working on  HTML, CSS , Sass, Bootstrap, JavaScript, React, Python, Django
 
 - 🌱  I am happy to teach you what I knowand eager to learn what you will offer
 
@@ -24,6 +24,7 @@
 <br/>  
 <br>
 ## 🚀 Skills
+
 <p>
  <a href="#" target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" alt="python" height="48"/></a> 
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/> </a>
