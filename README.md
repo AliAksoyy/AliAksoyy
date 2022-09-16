@@ -57,7 +57,7 @@
 
 
   <div align="center">
-  <a href="#">
+  <a href="#" style="background:white;">
     <img src="https://activity-graph.herokuapp.com/graph?username=AliAksoyy&theme=react-light" />
   </a>
 </div>
