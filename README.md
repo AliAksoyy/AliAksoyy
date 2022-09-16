@@ -1,15 +1,21 @@
 <div align="right">
-<img src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" align="right" height="300" width="380" />
+<img src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" align="right" height="300" width="450" />
 </div>  
   
 
 ### <div align="center" >👋 I'm Ali, a full-time full-stack developer 👨‍💻 </div>  
   
 
-- 👀  - :telescope: I’m currently working on  HTML, CSS , Sass, Bootstrap, JavaScript, React, Python, Django
+- 👀  - :telescope: I’m currently working on  HTML, CSS , Sass, 
+- 
+- Bootstrap, JavaScript, React, Python, Django
 
-- 🌱 - :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer
-- 💞️  Slowly and steadily, I'm trying to be better than yesterday😉  
+- 🌱 - :speech_balloon: I am happy to teach you what I know
+- 
+and eager to learn what you will offer
+- 💞️  Slowly and steadily, I'm trying to be better 
+- 
+- than yesterday😉  
   
 
 <a href="https://github.com/mustafa-bilen" target="_blank">
