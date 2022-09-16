@@ -53,43 +53,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
 </p>
-
-
-
-
-
-
-## 📈 Statistics
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=yusufgozukara&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufgozukara&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufgozukara&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p> 
-
-
-
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif">
-
-
-
-
-### When I work
-   <p align="center"><img src="https://tenor.com/view/silicon-valley-gif-5518465.gif" alt="" height="300" width="500"></p>
-
-</table>
-
-
-
-
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mustafa-bilen&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
+<br> 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=mustafa-bilen&&style=flat-square" align="center" />
@@ -97,7 +61,6 @@
   
 
 <br/>  
-
 
 <br />
 <p align="center">
