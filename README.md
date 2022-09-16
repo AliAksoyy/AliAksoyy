@@ -21,6 +21,7 @@
 
 ## 🌐 Socials:
 
+<br>
 
 <a href="https://github.com/AliAksoyy" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -37,6 +38,8 @@
 
 
 # 💻 Tech Stack:
+
+<br>
 
 <p>
  <a href="#" target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" alt="python" height="48"/></a> 
