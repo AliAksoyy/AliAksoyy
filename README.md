@@ -4,7 +4,7 @@
 
  - :telescope: I’m currently working on JavaScript | React | Redux | Material UI | RestFul API's | Bootstrap | SASS | HTML | CSS | Python | SQL | GİT
 
-- 🌱  I am happy to teach you what I knowand eager to learn what you will offer
+- 🌱  I am happy to teach you what I know and eager to learn what you will offer
 
 - 👀  I’m currently learning everything  😄
 
