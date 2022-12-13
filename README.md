@@ -46,8 +46,7 @@
  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="vs-code" height="48"/> </a>
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258720-2a39e2f4-cb61-4b1a-9303-db050ffaa003.png" height="48"/> </a>  
  <a href="#" target="_blank"> <img src="https://logos-marcas.com/wp-content/uploads/2021/03/Jira-Emblema.png" height="48"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
+ 
 
    <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
