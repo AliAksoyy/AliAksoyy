@@ -2,7 +2,7 @@
 ### <div align="center" >👋 I'm Ali, a full-time Front End Developer 👨‍💻 </div>  
 
 
- - :telescope: I’m currently working on JavaScript | React | Redux | Material UI | RestFul API's | Bootstrap | SASS | HTML | CSS | Scrum  | Jquery | Git
+ - :telescope: I’m currently working on JavaScript | React | Redux | Material UI | Rest API's | Bootstrap | SASS | HTML | CSS | Scrum | Jquery | Git
 
 - 🌱  I am happy to teach you what I knowand eager to learn what you will offer
 
