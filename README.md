@@ -1,5 +1,5 @@
 # AliAksoyy /README.md
-### <div align="center" >👋 I'm Ali, a full-time front-end developer 👨‍💻 </div>  
+### <div align="center" >👋 I'm Ali, a full-time Front End Developer 👨‍💻 </div>  
 
 
  - :telescope: I’m currently working on JavaScript | React | Redux | Material UI | RestFul API's | Bootstrap | SASS | HTML | CSS | SCRUM  | JQUERY | GİT
