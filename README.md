@@ -33,6 +33,30 @@
 <img src="./profile-3d-contrib/profile-gitblock.svg"/>
 </div>
 
+<br>
+
+
+<h2 align="center"> My projects</h2>
+
+###
+
+  Project Demo       |Libraries and Technologies I use     |Project Preview   
+:-------------------------|-------------------------|-------------------------
+[React Schiphol Airport Flights App](https://reliable-chimera-0baadb.netlify.app/) <h3>[Repo](https://github.com/canocalir/schipol-metrics)</h3> | ReactJS, Styled Components, React Toastify, Official Schipol Api |![schiphol](https://user-images.githubusercontent.com/11324886/200136369-42e3d85c-8f91-4d55-a5df-e8ab93f4549d.gif)
+[React - Redux Firebase Blog App](https://gleaming-bunny-a87b8c.netlify.app/) <h3>[Repo](https://github.com/canocalir/reactor-blog)</h3> | ReactJS, Styled Components, Redux Toolkit, Firebase | ![blog](https://user-images.githubusercontent.com/11324886/202948194-cd867a9d-aa44-4da3-9312-5859f2a84049.gif)
+[React Rijks Museum Color to Art App](https://startling-paprenjak-68c1ff.netlify.app/) <h3>[Repo](https://github.com/canocalir/rijksmuseum-colortopainting)</h3> | ReactJS, Styled Components, React Router, Sass, Official RijksMuseum Api |![rijks](https://user-images.githubusercontent.com/11324886/202180622-ad1b3cd7-47df-4b2b-9fcb-62ea6d751698.gif)
+[React Firebase Movie App](https://musical-moonbeam-a4cdde.netlify.app/) <h3>[Repo](https://github.com/canocalir/movie-database)</h3> | ReactJS, Styled Components, Firebase Authentication, Flowbite React, Tailwind CSS, The Movie Database Api, React Toastify |![movie](https://user-images.githubusercontent.com/11324886/200697849-9cad9dba-e885-40ba-95e6-6625dfbfed77.gif)
+[React Turkey Earthquake App](https://chimerical-eclair-cd9cee.netlify.app/) <h3>[Repo](https://github.com/canocalir/earthquake-app)</h3> | ReactJS, Pigeon Maps, SASS Modules |![earthquake](https://user-images.githubusercontent.com/11324886/195408038-20a679dd-34a5-4607-80ae-e914048c6218.gif)
+[React Recipe App](https://prismatic-duckanoo-10bdd4.netlify.app/login) <h3>[Repo](https://github.com/canocalir/recipe-app)</h3> | ReactJS, React Router, Styled Components, SASS Modules |![react-recipe](https://user-images.githubusercontent.com/11324886/198851171-71801f20-ec83-4a10-8ca7-1dd7737e884c.gif)
+[React Pokemon App](https://dulcet-chimera-3865aa.netlify.app/) <h3>[Repo](https://github.com/canocalir/pokemon-test)</h3> | ReactJS, React Router, SASS |![pokemon-react](https://user-images.githubusercontent.com/11324886/197602220-e1e1f573-ff52-4582-8f64-3429bd2c3cdf.gif)
+[React Dashboard Example App(Task)](https://immfly-frontend-test.herokuapp.com/) <h3>[Repo](https://github.com/canocalir/immflyfrontend)</h3> | ReactJS, CSS |![dashboard-react](https://user-images.githubusercontent.com/11324886/197594289-b3d34e17-18ef-4c97-a926-cab893400871.gif)
+[React Developer News App](https://canocalir.github.io/popular-news/) <h3>[Repo](https://github.com/canocalir/popular-news)</h3> | ReactJS, CSS |![news-react](https://user-images.githubusercontent.com/11324886/197608576-0e0cf7bf-f7f1-4d7a-b373-09f50d61bf48.gif)
+[React Ingredient Recognition App](https://carty-food-recognition.herokuapp.com/) <h3>[Repo](https://github.com/canocalir/carty-frontend)</h3> | ReactJS, CSS |![food-react](https://user-images.githubusercontent.com/11324886/197904180-2abc3d7b-e9a5-4e39-a7ec-f7822a12d07e.gif)
+[React Pricing Table App](https://rainbow-creponne-a8121c.netlify.app/) <h3>[Repo](https://github.com/canocalir/react-pricing-table)</h3> | ReactJS, CSS |![pricing-react](https://user-images.githubusercontent.com/11324886/197610573-9df32740-2c1c-43eb-883a-11430590252f.gif)
+[React Random User App](https://resilient-brioche-95a033.netlify.app/) <h3>[Repo](https://github.com/canocalir/random-user-app)</h3> | ReactJS, SASS Module |![random-user-react](https://user-images.githubusercontent.com/11324886/197899509-635353c9-f932-4ee4-8aec-ee3913315dcc.gif)
+[React Employee List App](https://sensational-quokka-924ea3.netlify.app/) <h3>[Repo](https://github.com/canocalir/employee-list)</h3> | ReactJS, SASS Module |![employee-react](https://user-images.githubusercontent.com/11324886/197614000-0fe0f77e-2949-4652-87d1-0b9154937e76.gif)
+
+<br>
 
 # 💻 Tech Stack:
 
