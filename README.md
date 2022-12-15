@@ -1,7 +1,7 @@
 # AliAksoyy /README.md
 ### <h2 align="center">Hi 👋! My name is Ali Aksoy and I'm a Front-end Developer with React skills</h2> 
 
-
+<!--
  - :telescope: I’m currently working on JavaScript | React | Redux | Material UI | Rest API's | Bootstrap | SASS | HTML | CSS | Scrum | Jquery | Git
 
 - 🌱  I am happy to teach you what I knowand eager to learn what you will offer
@@ -26,7 +26,7 @@
 <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank">
 <img src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" alt=linkedin style="margin-bottom: 5px;" />
 </a> 
-
+-->
 <br>
 
 <div align="center">
