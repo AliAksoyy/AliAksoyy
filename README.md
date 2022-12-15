@@ -48,13 +48,7 @@
 [React Turkey Weather Router App](https://react-turkey-weather-app.vercel.app/) <h3>[Repo](https://github.com/AliAksoyy/React-Turkey-Weather-App)</h3> | ReactJS, Styled Components, Bootstrap, React Icons, Axios and Async Await, LocalStroage |![movie](https://github.com/AliAksoyy/React-Turkey-Weather-App/blob/main/public/gif/maker.gif)
 [React Recipe App](https://react-recipe-app-nine.vercel.app/) <h3>[Repo](https://github.com/AliAksoyy/React-Recipe-App)</h3> | ReactJS, Styled Components, Router, Fetch Api, LocalStorage |![earthquake](https://raw.githubusercontent.com/AliAksoyy/React-Recipe-App/main/public/gif/maker.gif)
 [React Router App](https://react-router-app-three.vercel.app/) <h3>[Repo](https://github.com/AliAksoyy/React-Router-App)</h3> | ReactJS, React Router, External CSS |![react-recipe](https://raw.githubusercontent.com/AliAksoyy/React-Router-App/main/public/gif/maker.gif)
-[React Pokemon App](https://dulcet-chimera-3865aa.netlify.app/) <h3>[Repo](https://github.com/canocalir/pokemon-test)</h3> | ReactJS, React Router, SASS |![pokemon-react](https://user-images.githubusercontent.com/11324886/197602220-e1e1f573-ff52-4582-8f64-3429bd2c3cdf.gif)
-[React Dashboard Example App(Task)](https://immfly-frontend-test.herokuapp.com/) <h3>[Repo](https://github.com/canocalir/immflyfrontend)</h3> | ReactJS, CSS |![dashboard-react](https://user-images.githubusercontent.com/11324886/197594289-b3d34e17-18ef-4c97-a926-cab893400871.gif)
-[React Developer News App](https://canocalir.github.io/popular-news/) <h3>[Repo](https://github.com/canocalir/popular-news)</h3> | ReactJS, CSS |![news-react](https://user-images.githubusercontent.com/11324886/197608576-0e0cf7bf-f7f1-4d7a-b373-09f50d61bf48.gif)
-[React Ingredient Recognition App](https://carty-food-recognition.herokuapp.com/) <h3>[Repo](https://github.com/canocalir/carty-frontend)</h3> | ReactJS, CSS |![food-react](https://user-images.githubusercontent.com/11324886/197904180-2abc3d7b-e9a5-4e39-a7ec-f7822a12d07e.gif)
-[React Pricing Table App](https://rainbow-creponne-a8121c.netlify.app/) <h3>[Repo](https://github.com/canocalir/react-pricing-table)</h3> | ReactJS, CSS |![pricing-react](https://user-images.githubusercontent.com/11324886/197610573-9df32740-2c1c-43eb-883a-11430590252f.gif)
-[React Random User App](https://resilient-brioche-95a033.netlify.app/) <h3>[Repo](https://github.com/canocalir/random-user-app)</h3> | ReactJS, SASS Module |![random-user-react](https://user-images.githubusercontent.com/11324886/197899509-635353c9-f932-4ee4-8aec-ee3913315dcc.gif)
-[React Employee List App](https://sensational-quokka-924ea3.netlify.app/) <h3>[Repo](https://github.com/canocalir/employee-list)</h3> | ReactJS, SASS Module |![employee-react](https://user-images.githubusercontent.com/11324886/197614000-0fe0f77e-2949-4652-87d1-0b9154937e76.gif)
+
 
 <br>
 
