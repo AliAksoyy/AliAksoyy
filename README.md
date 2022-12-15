@@ -1,7 +1,7 @@
 # AliAksoyy /README.md
 ### <h2 align="center">Hi 👋! My name is Ali Aksoy and I'm a Front-end Developer with React skills</h2> 
 
-<!--
+
  - :telescope: I’m currently working on JavaScript | React | Redux | Material UI | Rest API's | Bootstrap | SASS | HTML | CSS | Scrum | Jquery | Git
 
 - 🌱  I am happy to teach you what I knowand eager to learn what you will offer
@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on more open source projects.
 
 
-
+<!--
 ## 🌐 Socials:
 
 
