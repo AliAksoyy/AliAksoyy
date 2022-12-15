@@ -1,5 +1,5 @@
 # AliAksoyy /README.md
-### <div align="center" >👋 I'm Ali, a full-time Front End Developer 👨‍💻 </div>  
+### <h2 align="center">Hi 👋! My name is Can and I'm a Front-end Developer with React skills</h2> 
 
 
  - :telescope: I’m currently working on JavaScript | React | Redux | Material UI | Rest API's | Bootstrap | SASS | HTML | CSS | Scrum | Jquery | Git
