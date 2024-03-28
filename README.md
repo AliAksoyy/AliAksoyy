@@ -12,10 +12,11 @@
 
 <b> - 👯 I’m open to collaborate on more open source projects. </b>
 <!--
-🌐 Visit my Portfolio to explore my projects and achievements.
-📝 Writing technical blogs on Hashnode.
-📧 Reach me via Email or connect on LinkedIn.
-📍 Currently based in Mecheda, West Bengal, India
+- 📚 Proficient in HTML, CSS, JavaScript, Python, Java, C, and Figma.
+- 🌐 Visit my [Portfolio](https://github.com/RanitManik/Portfolio-1.0) to explore my projects and achievements.
+- 📝 Writing technical blogs on [Hashnode](https://hashnode.com/@ranitmanik).
+- 📧 Reach me via [Email](mailto:ranitmanik.dev@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ranit-manik/).
+- 📍 Currently based in Mecheda, West Bengal, India.
 -->
 
 
