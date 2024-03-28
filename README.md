@@ -36,9 +36,37 @@
 -->
 <br>
 
+<!--
 <div align="center">
 <img src="./profile-3d-contrib/profile-gitblock.svg"/>
 </div>
+-->
+<h2 align="center">📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+        <a href="https://github.com/AliAksoyy">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=AliAksoyy&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=AliAksoyy&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
+            <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AliAksoyy&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+          </picture>
+        </a>
+    </td>
+    <td width="50%">
+        <a href="https://github.com/AliAksoyy">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=AliAksoyy&theme=radical" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=AliAksoyy" />
+            <img align="center" src="https://github-readme-streak-stats-seven-psi.vercel.app?user=AliAksoyy&theme=radical" alt="Streak Stats" />
+          </picture>
+        </a>
+    </td>
+  </tr>
+</table>
+
+<h2 align="center">🧑‍💻 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗦𝘁𝗮𝘁𝘀 🧑‍💻</h2>
 
 <table width="100%" align="center">
   </tr>
@@ -53,7 +81,7 @@
         </a>
     </td>
     <td width="60%"  align="center">
-        <a href="https://github.com/AliAksoyy">
+         <a href="https://github.com/AliAksoyy">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=AliAksoyy&layout=compact&theme=radical&langs_count=10" />
             <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=AliAksoyy&layout=compact&langs_count=10" />
@@ -75,6 +103,14 @@
 </div>
 
 <h2 align="center">💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 💻</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="Assets/skills-svg-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="Assets/skills-svg-light.svg" />
+    <img width=70% src="Assets/skills-svg-dark.svg">
+  </picture>
+</div>
 
 <div align="center">
   <picture>
