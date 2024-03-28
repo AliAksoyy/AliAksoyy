@@ -11,6 +11,12 @@
 <b> - 💞️  Slowly but steadily, I'm striving to become better than yesterday. 😉 </b>  
 
 <b> - 👯 I’m open to collaborate on more open source projects. </b>
+<!--
+🌐 Visit my Portfolio to explore my projects and achievements.
+📝 Writing technical blogs on Hashnode.
+📧 Reach me via Email or connect on LinkedIn.
+📍 Currently based in Mecheda, West Bengal, India
+-->
 
 
 <!--
