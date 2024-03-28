@@ -1,5 +1,5 @@
 # AliAksoyy /README.md
-### <h2 align="center">Hi 👋! My name is Ali Aksoy and I'm a Front-end Developer with React skills</h2> 
+### <h2 align="center">Hi 👋My name is Ali Aksoy, and I'm a Full Stack Developer proficient in React, React Native, and Node.js</h2> 
 
 
  - :telescope: I’m currently working on JavaScript | React | Redux | Material UI | Rest API's | Bootstrap | SASS | HTML | CSS | Scrum | Jquery | Git
