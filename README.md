@@ -112,14 +112,6 @@
   </picture>
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="Assets/skills-svg-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="Assets/skills-svg-light.svg" />
-    <img width=70% src="Assets/skills-svg-dark.svg">
-  </picture>
-</div>
-
 <br>
 
 
