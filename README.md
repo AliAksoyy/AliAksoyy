@@ -1,21 +1,16 @@
-# AliAksoyy /README.md
-### <h2 align="center">Hi 👋My name is Ali Aksoy, and I'm a Full Stack Developer proficient in React, React Native, and Node.js</h2> 
-
 <p>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Fullstack+Developer;I'm+a+Frontend+Developer;I'm+a+Backend+Developer" /></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Fullstack+Developer;I'm+a+Frontend+Developer;I'm+a+Backend+Developer;I'm+a+React+Developer;I'm+a+React+Native+Developer"/></a>
 </p>
 
-<b>🔭 I am currently looking for a good chance as a Front-end Developer or Back-end Developer🌱</b><br/><br/>
+ <b> - 🔭 I’m currently working on | Full Stack Developer| React  | NodeJS | React Native | Redux | Material UI | Rest API's | JavaScript | </b>
 
- - :telescope: I’m currently working on JavaScript | React | Redux | Material UI | Rest API's | Bootstrap | SASS | HTML | CSS | Scrum | Jquery | Git
+<b> - 🌱  I am happy to teach you what I knowand eager to learn what you will offer c
 
-- 🌱  I am happy to teach you what I knowand eager to learn what you will offer
+<b> - 👀  I’m currently learning everything  😄 </b>
 
-- 👀  I’m currently learning everything  😄
+<b> - 💞️  Slowly and steadily, I'm trying to be better than yesterday😉 </b>  
 
-- 💞️  Slowly and steadily, I'm trying to be better than yesterday😉  
-
-- 👯 I’m looking to collaborate on more open source projects.
+<b> - 👯 I’m looking to collaborate on more open source projects. </b>
 
 
 <!--
