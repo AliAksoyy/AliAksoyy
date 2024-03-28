@@ -104,7 +104,7 @@
 
 <h2 align="center">💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 💻</h2>
 
-<div align="center" style="cursor:pointer">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="Assets/skills-svg-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="Assets/skills-svg-light.svg" />
