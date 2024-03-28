@@ -2,15 +2,15 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Fullstack+Developer;I'm+a+Frontend+Developer;I'm+a+Backend+Developer;I'm+a+React+Developer;I'm+a+React+Native+Developer"/></a>
 </p>
 
- <b> - 🔭 I’m currently working on | Full Stack Developer| React  | NodeJS | React Native | Redux | Material UI | Rest API's | JavaScript | </b>
+ <b> - 🔭 I’m currently working on: Full Stack Development | React | Node.js | React Native | Redux | Material UI | REST APIs | JavaScript | </b>
 
-<b> - 🌱  I am happy to teach you what I knowand eager to learn what you will offer c
+<b> - 🌱  I'm eager to teach what I know and enthusiastic about learning new things.
 
-<b> - 👀  I’m currently learning everything  😄 </b>
+<b> - 👀  Currently learning everything with a smile on my face! 😄 </b>
 
-<b> - 💞️  Slowly and steadily, I'm trying to be better than yesterday😉 </b>  
+<b> - 💞️  Slowly but steadily, I'm striving to become better than yesterday. 😉 </b>  
 
-<b> - 👯 I’m looking to collaborate on more open source projects. </b>
+<b> - 👯 I’m open to collaborate on more open source projects. </b>
 
 
 <!--
