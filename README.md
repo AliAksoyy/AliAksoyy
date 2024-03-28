@@ -40,6 +40,50 @@
 <img src="./profile-3d-contrib/profile-gitblock.svg"/>
 </div>
 
+<table width="100%" align="center">
+  </tr>
+  <tr>
+    <td width="40%"  align="center">
+        <a href="https://github.com/AliAksoyy">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAksoyy&layout=compact&theme=radical&langs_count=10" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAksoyy&layout=compact&langs_count=10" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAksoyy&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
+          </picture>
+        </a>
+    </td>
+    <td width="60%"  align="center">
+        <a href="https://github.com/AliAksoyy">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=AliAksoyy&layout=compact&theme=radical&langs_count=10" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=AliAksoyy&layout=compact&langs_count=10" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AliAksoyy&layout=compact&theme=radical&langs_count=10" alt="Wakatime Stats" />
+          </picture>
+        </a>
+      </td>
+  </tr>
+</table>
+  
+<h2 align="center">🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀 🏆</h2>
+
+<div align=center>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=AliAksoyy&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=AliAksoyy&no-frame=false&no-bg=false&margin-w=4&row=1" />
+    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=AliAksoyy&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" />
+  </picture>
+</div>
+
+<h2 align="center">💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 💻</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="Assets/skills-svg-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="Assets/skills-svg-light.svg" />
+    <img width=70% src="Assets/skills-svg-dark.svg">
+  </picture>
+</div>
+
 <br>
 
 
