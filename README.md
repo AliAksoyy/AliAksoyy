@@ -20,7 +20,7 @@
  <a href="https://discord.gg/f4281aliaksoy" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/discord.png" target="_blank"></a>
  <a href="https://www.instagram.com/aksoy_ali0" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/instagram.png" target="_blank"></a>
   <a href="https://twitter.com/alifeyza4017" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/twitter.png" target="_blank"></a>
-  <br>
+  <br><br>
 </div>
 
 <!--
@@ -45,7 +45,7 @@
 <img src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" alt=linkedin style="margin-bottom: 5px;" />
 </a>
 -->
-<br>
+
 
 <!--
 <div align="center">
