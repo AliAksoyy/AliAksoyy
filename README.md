@@ -3,6 +3,7 @@
 </p>
 <b> - 🔭 I’m currently working on: Full Stack Development | React | Node.js | React Native | Redux | Material UI | REST APIs | JavaScript | </b>
 
+
 <b> - 🌱 I'm eager to teach what I know and enthusiastic about learning new things.
 
 <b> - 👀 Currently learning everything with a smile on my face! 😄 </b>
