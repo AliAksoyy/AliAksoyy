@@ -12,7 +12,7 @@
 
 <b> - 👯 I’m open to collaborate on more open source projects. </b>
 
-<div align="center">
+<div >
   <a href="https://www.linkedin.com/in/aliaksoyy/" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/7ceeda4617c358cd0b6bb8bd0de243c07f5ed798/badges/linkedin.png" target="_blank"></a>
   <a href ="mailto:alifeyza4017@gmail.com"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/gmail.png" target="_blank"></a>
   <a href ="https://api.whatsapp.com/send?phone=905347909938" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/whatsapp.png" target="_blank"></a>
