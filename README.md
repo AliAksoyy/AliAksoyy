@@ -53,9 +53,11 @@
 
 <div align="center">
 
-![GitHub Profile Summary Cards - Repositories Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AliAksoyy&theme=nord_bright)
+<p style="width:50%"> ![GitHub Profile Summary Cards - Repositories Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AliAksoyy&theme=nord_bright)
+</p>
 
-![GitHub Profile Summary Cards - Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AliAksoyy&theme=nord_bright)
+<p style="width:50%">![GitHub Profile Summary Cards - Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AliAksoyy&theme=nord_bright)
+</p>
 
 </div>
 
