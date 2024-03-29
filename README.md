@@ -117,19 +117,19 @@
 <br>
 
 <div align="center" style="display: inline-block; margin:0 auto">
-  <img align="center" alt="Badge-JS" height="30px" width="40px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/js.svg">
-  <img align="center" alt="Badge-TS" height="30px" width="40px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/ts.svg">
-  <img align="center" alt="Badge-NodeJS" height="30px" width="40px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/node.svg">
-  <img align="center" alt="Badge-ReactJS" height="30px" width="40px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/react.svg">
-  <img align="center" alt="Badge-Npm" height="30px" width="40px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/npm.svg">
-  <img align="center" alt="Badge-MongoDB" height="30px" width="40px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/mongodb.svg">
-  <img align="center" alt="Badge-MySQL" height="30px" width="40px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/mysql.svg">
-  <img align="center" alt="Badge-HTML" height="30px" width="40px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/html5.svg">
-  <img align="center" alt="Badge-CSS" height="30px" width="40px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/css3.svg">
-  <img align="center" alt="Badge-SASS" height="30px" width="40px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/sass.svg">
-  <img align="center" alt="Badge-Git" height="30px" width="40px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/git.svg">
-  <img align="center" alt="Badge-Linux" height="30px" width="40px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/linux.svg">
-  <img align="center" alt="Badge-Figma" height="30px" width="40px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/figma.svg">
+  <img align="center" alt="Badge-JS" height="40px" width="50px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/js.svg">
+  <img align="center" alt="Badge-TS" height="40px" width="50px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/ts.svg">
+  <img align="center" alt="Badge-NodeJS" height="40px" width="50px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/node.svg">
+  <img align="center" alt="Badge-ReactJS" height="40px" width="50px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/react.svg">
+  <img align="center" alt="Badge-Npm" height="40px" width="50px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/npm.svg">
+  <img align="center" alt="Badge-MongoDB" height="40px" width="50px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/mongodb.svg">
+  <img align="center" alt="Badge-MySQL" height="40px" width="50px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/mysql.svg">
+  <img align="center" alt="Badge-HTML" height="40px" width="50px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/html5.svg">
+  <img align="center" alt="Badge-CSS" height="40px" width="50px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/css3.svg">
+  <img align="center" alt="Badge-SASS" height="40px" width="50px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/sass.svg">
+  <img align="center" alt="Badge-Git" height="40px" width="50px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/git.svg">
+  <img align="center" alt="Badge-Linux" height="40px" width="50px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/linux.svg">
+  <img align="center" alt="Badge-Figma" height="40px" width="50px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/figma.svg">
 </div>
 <br>
 <br>
