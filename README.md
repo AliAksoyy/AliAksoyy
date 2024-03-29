@@ -1,16 +1,17 @@
 <p>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&weight=600&pause=1000&color=F74E27&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Fullstack+Developer;I'm+a+Frontend+Developer;I'm+a+Backend+Developer;I'm+a+React+Developer;I'm+a+React+Native+Developer"/></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&weight=600&pause=1000&color=C5793C&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Fullstack+Developer;I'm+a+Frontend+Developer;I'm+a+Backend+Developer;I'm+a+React+Developer;I'm+a+React+Native+Developer"/></a>
 </p>
 
- <b> - 🔭 I’m currently working on: Full Stack Development | React | Node.js | React Native | Redux | Material UI | REST APIs | JavaScript | </b>
+<b> - 🔭 I’m currently working on: Full Stack Development | React | Node.js | React Native | Redux | Material UI | REST APIs | JavaScript | </b>
 
-<b> - 🌱  I'm eager to teach what I know and enthusiastic about learning new things.
+<b> - 🌱 I'm eager to teach what I know and enthusiastic about learning new things.
 
-<b> - 👀  Currently learning everything with a smile on my face! 😄 </b>
+<b> - 👀 Currently learning everything with a smile on my face! 😄 </b>
 
-<b> - 💞️  Slowly but steadily, I'm striving to become better than yesterday. 😉 </b>  
+<b> - 💞️ Slowly but steadily, I'm striving to become better than yesterday. 😉 </b>
 
 <b> - 👯 I’m open to collaborate on more open source projects. </b>
+
 <!--
 - 📚 Proficient in HTML, CSS, JavaScript, Python, Java, C, and Figma.
 - 🌐 Visit my [Portfolio](https://github.com/RanitManik/Portfolio-1.0) to explore my projects and achievements.
@@ -18,7 +19,6 @@
 - 📧 Reach me via [Email](mailto:ranitmanik.dev@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ranit-manik/).
 - 📍 Currently based in Mecheda, West Bengal, India.
 -->
-
 
 <!--
 ## 🌐 Socials:
@@ -29,10 +29,10 @@
 </a>
 <a href="https://www.linkedin.com/in/aliaksoyy/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a> 
+</a>
 <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank">
 <img src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" alt=linkedin style="margin-bottom: 5px;" />
-</a> 
+</a>
 -->
 <br>
 
@@ -51,9 +51,10 @@
   <br>
 </div>
 
-
-  
 <h2 align="center">🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀 🏆</h2>
+<br>
+<br>
+<br>
 
 <div align=center>
   <picture>
@@ -83,22 +84,13 @@
 
 ###
 
-  Project Demo       |Libraries and Technologies I use     |Project Preview   
-:-------------------------|-------------------------|-------------------------
-[Github User App React](https://github-useres-react.vercel.app/) <h3>[Repo](https://github.com/AliAksoyy/Github-Useres-React)</h3> | I used mainly REACT and Styled Components, React Router, React Icons, Context API, Axios, React/Auth0, React/FusionCharts, React/Toastify, Props , Hooks, Authentication |![schiphol](https://raw.githubusercontent.com/AliAksoyy/Github-Useres-React/main/public/gif/maker.gif)
-[Stock App React](https://stock-app-react-weld.vercel.app/) <h3>[Repo](https://github.com/AliAksoyy/stock-app-react)</h3> | ReactJS, Material UI, React Toastify, React/Tremor, REACT / Components , Props , Hooks , Custom Hooks Router, Redux, Redux/Toolkit Formik-Yup, Authentication |![schiphol](https://raw.githubusercontent.com/AliAksoyy/stock-app-react/main/public/gif/maker.gif)
-[React Blog App](https://react-blog-app-rho.vercel.app/) <h3>[Repo](https://github.com/AliAksoyy/React-BlogApp)</h3> | ReactJS, Material UI, React Toastify, Bootstrap, REACT / Components , Props , Hooks , Router, Redux, Formik-Yup, Firebase Realtime Database, Firebase Authentication |![schiphol](https://raw.githubusercontent.com/AliAksoyy/React-BlogApp/main/public/gif/maker.gif)
-[React Fire-Contact App](https://react-fire-contact-app.vercel.app/) <h3>[Repo](https://github.com/AliAksoyy/React-FireContactApp)</h3> | ReactJS, Material UI, React Toastify, REACT / Components , Props , Hooks Firebase Firestore DB | ![blog](https://raw.githubusercontent.com/AliAksoyy/React-FireContactApp/main/public/gif/maker.gif)
-[React Movie App](https://react-movie-app-ruby.vercel.app/) <h3>[Repo](https://github.com/AliAksoyy/react-MovieApp)</h3> | ReactJS, Material UI, Firebase Authentication, React Toastify, Fetch API - Axios, Context API |![rijks](https://raw.githubusercontent.com/AliAksoyy/react-MovieApp/main/public/gif/readme.gif)
-[React Turkey Weather Router App](https://react-turkey-weather-app.vercel.app/) <h3>[Repo](https://github.com/AliAksoyy/React-Turkey-Weather-App)</h3> | ReactJS, Styled Components, Bootstrap, React Icons, Axios and Async Await, LocalStroage |![movie](https://github.com/AliAksoyy/React-Turkey-Weather-App/blob/main/public/gif/maker.gif)
-[React Recipe App](https://react-recipe-app-nine.vercel.app/) <h3>[Repo](https://github.com/AliAksoyy/React-Recipe-App)</h3> | ReactJS, Styled Components, Router, Fetch Api, LocalStorage |![earthquake](https://raw.githubusercontent.com/AliAksoyy/React-Recipe-App/main/public/gif/maker.gif)
-[React Router App](https://react-router-app-three.vercel.app/) <h3>[Repo](https://github.com/AliAksoyy/React-Router-App)</h3> | ReactJS, React Router, External CSS |![react-recipe](https://raw.githubusercontent.com/AliAksoyy/React-Router-App/main/public/gif/maker.gif)
-
-
-
- 
-
-  
-
-
-
+| Project Demo                                                                                                                                           | Libraries and Technologies I use                                                                                                                                         | Project Preview                                                                                         |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
+| [Github User App React](https://github-useres-react.vercel.app/) <h3>[Repo](https://github.com/AliAksoyy/Github-Useres-React)</h3>                     | I used mainly REACT and Styled Components, React Router, React Icons, Context API, Axios, React/Auth0, React/FusionCharts, React/Toastify, Props , Hooks, Authentication | ![schiphol](https://raw.githubusercontent.com/AliAksoyy/Github-Useres-React/main/public/gif/maker.gif)  |
+| [Stock App React](https://stock-app-react-weld.vercel.app/) <h3>[Repo](https://github.com/AliAksoyy/stock-app-react)</h3>                              | ReactJS, Material UI, React Toastify, React/Tremor, REACT / Components , Props , Hooks , Custom Hooks Router, Redux, Redux/Toolkit Formik-Yup, Authentication            | ![schiphol](https://raw.githubusercontent.com/AliAksoyy/stock-app-react/main/public/gif/maker.gif)      |
+| [React Blog App](https://react-blog-app-rho.vercel.app/) <h3>[Repo](https://github.com/AliAksoyy/React-BlogApp)</h3>                                   | ReactJS, Material UI, React Toastify, Bootstrap, REACT / Components , Props , Hooks , Router, Redux, Formik-Yup, Firebase Realtime Database, Firebase Authentication     | ![schiphol](https://raw.githubusercontent.com/AliAksoyy/React-BlogApp/main/public/gif/maker.gif)        |
+| [React Fire-Contact App](https://react-fire-contact-app.vercel.app/) <h3>[Repo](https://github.com/AliAksoyy/React-FireContactApp)</h3>                | ReactJS, Material UI, React Toastify, REACT / Components , Props , Hooks Firebase Firestore DB                                                                           | ![blog](https://raw.githubusercontent.com/AliAksoyy/React-FireContactApp/main/public/gif/maker.gif)     |
+| [React Movie App](https://react-movie-app-ruby.vercel.app/) <h3>[Repo](https://github.com/AliAksoyy/react-MovieApp)</h3>                               | ReactJS, Material UI, Firebase Authentication, React Toastify, Fetch API - Axios, Context API                                                                            | ![rijks](https://raw.githubusercontent.com/AliAksoyy/react-MovieApp/main/public/gif/readme.gif)         |
+| [React Turkey Weather Router App](https://react-turkey-weather-app.vercel.app/) <h3>[Repo](https://github.com/AliAksoyy/React-Turkey-Weather-App)</h3> | ReactJS, Styled Components, Bootstrap, React Icons, Axios and Async Await, LocalStroage                                                                                  | ![movie](https://github.com/AliAksoyy/React-Turkey-Weather-App/blob/main/public/gif/maker.gif)          |
+| [React Recipe App](https://react-recipe-app-nine.vercel.app/) <h3>[Repo](https://github.com/AliAksoyy/React-Recipe-App)</h3>                           | ReactJS, Styled Components, Router, Fetch Api, LocalStorage                                                                                                              | ![earthquake](https://raw.githubusercontent.com/AliAksoyy/React-Recipe-App/main/public/gif/maker.gif)   |
+| [React Router App](https://react-router-app-three.vercel.app/) <h3>[Repo](https://github.com/AliAksoyy/React-Router-App)</h3>                          | ReactJS, React Router, External CSS                                                                                                                                      | ![react-recipe](https://raw.githubusercontent.com/AliAksoyy/React-Router-App/main/public/gif/maker.gif) |
