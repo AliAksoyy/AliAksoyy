@@ -124,21 +124,16 @@
 <br>
 
 <h2 align="center">💻 Contackts 💻</h2>
-<br>
 
 <div>
   <img align="right" alt="codebuenozy-bitmoji" height="100px" style="border-radius:50px;" src="https://media.licdn.com/dms/image/D4D03AQEVMgwmjhtRLw/profile-displayphoto-shrink_800_800/0/1686320303032?e=1717027200&v=beta&t=kW5F_E4OjWM_EgK7OnuYV-E5hRVObRR3ymDDDj5bHkI">
   <br>
-  <a href="https://www.youtube.com/channel/UCw-kifCLkQUem2WwKfP6xaw" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/youtube.png" target="_blank"></a>
-  <a href="https://www.twitch.tv/codebuenozy" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/twitch.png" target="_blank"></a>
  <a href="https://discord.gg/yGHJ8grD5R" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/discord.png" target="_blank"></a>
-  <a href="https://twitter.com/codebuenozy" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/twitter.png" target="_blank"></a>
- <a href="https://instagram.com/codebuenozy" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/instagram.png" target="_blank"></a>
-  <a href="https://www.tiktok.com/@codebuenozy" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/7ceeda4617c358cd0b6bb8bd0de243c07f5ed798/badges/tiktok.png" target="_blank"></a>
-  <a href="https://www.facebook.com/codebuenozy" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/facebook.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/codebuenozy" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/7ceeda4617c358cd0b6bb8bd0de243c07f5ed798/badges/linkedin.png" target="_blank"></a>
-  <a href ="mailto:nando.buenozy@gmail.com"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/gmail.png" target="_blank"></a>
-  <a href ="https://api.whatsapp.com/send?phone=5511970967963" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/whatsapp.png" target="_blank"></a>
+  <a href="https://twitter.com/alifeyza4017" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/twitter.png" target="_blank"></a>
+ <a href="https://www.instagram.com/aksoy_ali0" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/instagram.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/aliaksoyy/" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/7ceeda4617c358cd0b6bb8bd0de243c07f5ed798/badges/linkedin.png" target="_blank"></a>
+  <a href ="mailto:alifeyza4017@gmail.com"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/gmail.png" target="_blank"></a>
+  <a href ="https://api.whatsapp.com/send?phone=905347909938" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/whatsapp.png" target="_blank"></a>
   <br><br>
 </div>
 
