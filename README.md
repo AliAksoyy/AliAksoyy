@@ -44,18 +44,24 @@
 
 <h2 align="center">📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀 📊</h2>
 <br>
-
 <div align="center">
+<table>
+<tr>
+<td>
 
 ![GitHub Profile Summary Cards - Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliAksoyy&theme=nord_bright)
 
+</td>
+</tr>
+
+</table>
 </div>
 
 <div align="center">
 
 <table >
 <tr >
-<td class="a" >
+<td >
 
 ![GitHub Profile Summary Cards - Repositories Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AliAksoyy&theme=nord_bright)
 
@@ -69,11 +75,6 @@
 </table>
 
 </div>
-<style>
-  .a{
-    border:1px solid #22aa22
-  }
-</style>
 
 ### GitHub stats card
 
