@@ -45,7 +45,6 @@
 <h2 align="center">📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀 📊</h2>
 <br>
 
-
   <div align="center">
   <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=AliAksoyy&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
@@ -55,11 +54,8 @@
 </div>
 
 <br>
-<br>
-<br>
+
 <h2 align="center">🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀 🏆</h2>
-<br>
-<br>
 <br>
 
 <div align=center>
