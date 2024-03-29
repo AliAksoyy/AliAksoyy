@@ -43,42 +43,18 @@
 -->
 <h2 align="center">📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀 📊</h2>
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-        <a href="https://github.com/AliAksoyy">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=AliAksoyy&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=AliAksoyy&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
-            <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AliAksoyy&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-          </picture>
-        </a>
-    </td>
-    <td width="50%">
-        <a href="https://github.com/AliAksoyy">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=AliAksoyy&theme=radical" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=AliAksoyy" />
-            <img align="center" src="https://github-readme-streak-stats-seven-psi.vercel.app?user=AliAksoyy&theme=radical" alt="Streak Stats" />
-          </picture>
-        </a>
-    </td>
-  </tr>
-</table>
+  <div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+  <p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=AliAksoyy&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAksoyy&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=AliAksoyy&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+</div>
 
-<h2 align="center">🧑‍💻 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗦𝘁𝗮𝘁𝘀 🧑‍💻</h2>
 
-<table width="100%" align="center">
-  </tr>
-  <tr>
-    <td width="100%"  align="center">
-        <a href="https://github.com/AliAksoyy">
-            <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAksoyy&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-        </a>
-    </td>
-    
-  </tr>
-</table>
   
 <h2 align="center">🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀 🏆</h2>
 
@@ -92,17 +68,21 @@
 
 <h2 align="center">💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 💻</h2>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="Assets/skills-svg-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="Assets/skills-svg-light.svg" />
-    <img width=70% src="Assets/skills-svg-dark.svg">
-  </picture>
-</div>
-
+<p align="center">
+ <a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="html" height="48"/></a> 
+ <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css" height="48"/> </a> 
+<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="48"/> </a>
+<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="bootstrap" height="48"/> </a> 
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+ <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="48"/> </a> 
+ <a href="#" target="_blank"> <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="gitHub" height="48"/> </a> 
+ <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="vs-code" height="48"/> </a>
+ <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258720-2a39e2f4-cb61-4b1a-9303-db050ffaa003.png" height="48"/> </a>  
+ <a href="#" target="_blank"> <img src="https://logos-marcas.com/wp-content/uploads/2021/03/Jira-Emblema.png" height="48"/> </a>
 <br>
 
-<b><h2 align="center"> My projects</h2></b>
+<h2 align="center"> 🧑‍🏫 My Projects 🧑‍🏫</h2>
 
 ###
 
@@ -118,40 +98,10 @@
 [React Router App](https://react-router-app-three.vercel.app/) <h3>[Repo](https://github.com/AliAksoyy/React-Router-App)</h3> | ReactJS, React Router, External CSS |![react-recipe](https://raw.githubusercontent.com/AliAksoyy/React-Router-App/main/public/gif/maker.gif)
 
 
-<br>
 
-# 💻 Tech Stack:
-
-<br>
-
-<p align="center">
- <a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="html" height="48"/></a> 
- <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css" height="48"/> </a> 
-<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="48"/> </a>
-<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="bootstrap" height="48"/> </a> 
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
- <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="48"/> </a> 
- <a href="#" target="_blank"> <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="gitHub" height="48"/> </a> 
- <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="vs-code" height="48"/> </a>
- <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258720-2a39e2f4-cb61-4b1a-9303-db050ffaa003.png" height="48"/> </a>  
- <a href="#" target="_blank"> <img src="https://logos-marcas.com/wp-content/uploads/2021/03/Jira-Emblema.png" height="48"/> </a>
  
 
-   <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-  <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=AliAksoyy&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAksoyy&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=AliAksoyy&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-</div>
+  
 
-  <div align="center">
-  <a href="#" style="background:white;">
-    <img src="https://activity-graph.herokuapp.com/graph?username=AliAksoyy&theme=react-lighter" />
-  </a>
-</div>
+
 
