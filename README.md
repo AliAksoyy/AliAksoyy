@@ -79,7 +79,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AliAksoyy&theme=nord_bright&)
  -->
 
-
   <!-- <div align="center">
   <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=AliAksoyy&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
@@ -106,7 +105,7 @@
 <h2 align="center">💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 💻</h2>
 <br>
 
-<div style="display: inline-block">
+<div align="center" style="display: inline-block">
   <img align="center" alt="Badge-Windows" height="30px" width="40px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/windows.svg">
   <img align="center" alt="Badge-Linux" height="30px" width="40px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/linux.svg">
   <img align="center" alt="Badge-Git" height="30px" width="40px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/git.svg">
