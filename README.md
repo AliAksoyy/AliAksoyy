@@ -66,7 +66,8 @@
   </picture>
 </div>
 
-
+<br>
+<br>
 <h2 align="center">💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 💻</h2>
 <br>
 
@@ -87,7 +88,7 @@
 <br>
 <br>
 <br>
-<h2 align="center" > 🧑‍🏫>My Projects 🧑‍🏫</h2>
+<h2 align="center" > 🧑‍🏫 My Projects 🧑‍🏫</h2>
 
 ###
 
