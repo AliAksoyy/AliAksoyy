@@ -2,6 +2,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&weight=600&pause=1000&color=C5793C&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Fullstack+Developer;I'm+a+Frontend+Developer;I'm+a+Backend+Developer;I'm+a+React+Developer;I'm+a+React+Native+Developer"/></a>
 </p>
 <b> - 🔭 I’m currently working on: Full Stack Development | React | Node.js | React Native | Redux | Material UI | REST APIs | JavaScript | </b>
+
 <br>
 <b> - 🌱 I'm eager to teach what I know and enthusiastic about learning new things.
 
@@ -123,7 +124,7 @@
 <br>
 <br>
 
-<h2 align="center">💻 Contackts 💻</h2>
+<h2 align="center">💯 Contacts 💯</h2>
 
 <div>
   <img align="right" alt="codebuenozy-bitmoji" height="100px" style="border-radius:50px;" src="https://media.licdn.com/dms/image/D4D03AQEVMgwmjhtRLw/profile-displayphoto-shrink_800_800/0/1686320303032?e=1717027200&v=beta&t=kW5F_E4OjWM_EgK7OnuYV-E5hRVObRR3ymDDDj5bHkI">
@@ -136,6 +137,8 @@
   <a href="https://twitter.com/alifeyza4017" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/twitter.png" target="_blank"></a>
   <br><br>
 </div>
+
+<br><br>
 
 <h2 align="center" > 🧑‍🏫 My Projects 🧑‍🏫</h2>
 
