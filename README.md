@@ -122,6 +122,26 @@
 </div>
 <br>
 <br>
+
+<h2 align="center">💻 Contackts 💻</h2>
+<br>
+
+<div>
+  <img align="right" alt="codebuenozy-bitmoji" height="150px" style="border-radius:50px;" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/bitmoji/studying.png">
+  <br>
+  <a href="https://www.youtube.com/channel/UCw-kifCLkQUem2WwKfP6xaw" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/youtube.png" target="_blank"></a>
+  <a href="https://www.twitch.tv/codebuenozy" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/twitch.png" target="_blank"></a>
+ <a href="https://discord.gg/yGHJ8grD5R" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/discord.png" target="_blank"></a>
+  <a href="https://twitter.com/codebuenozy" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/twitter.png" target="_blank"></a>
+ <a href="https://instagram.com/codebuenozy" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/instagram.png" target="_blank"></a>
+  <a href="https://www.tiktok.com/@codebuenozy" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/7ceeda4617c358cd0b6bb8bd0de243c07f5ed798/badges/tiktok.png" target="_blank"></a>
+  <a href="https://www.facebook.com/codebuenozy" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/facebook.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/codebuenozy" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/7ceeda4617c358cd0b6bb8bd0de243c07f5ed798/badges/linkedin.png" target="_blank"></a>
+  <a href ="mailto:nando.buenozy@gmail.com"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/gmail.png" target="_blank"></a>
+  <a href ="https://api.whatsapp.com/send?phone=5511970967963" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/whatsapp.png" target="_blank"></a>
+  <br><br>
+</div>
+
 <h2 align="center" > 🧑‍🏫 My Projects 🧑‍🏫</h2>
 
 ###
