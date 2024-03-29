@@ -41,13 +41,10 @@
 <img src="./profile-3d-contrib/profile-gitblock.svg"/>
 </div>
 -->
-<br>
-<br>
-<br>
+
 <h2 align="center">📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀 📊</h2>
 <br>
-<br>
-<br>
+
 
   <div align="center">
   <p align="center">
