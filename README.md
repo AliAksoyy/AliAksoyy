@@ -52,12 +52,15 @@
 
 </td>
 </tr>
-<br>
+
 </table>
 </div>
 
-<div align="center">
 <br>
+<br>
+<br>
+<div align="center">
+
 <table >
 <tr >
 <td >
