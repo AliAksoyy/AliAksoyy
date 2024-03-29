@@ -53,7 +53,7 @@
 
 <div align="center">
 
-<table style="border:none">
+<table style="border-collapse: collapse;">
 <tr>
 <td>
 
@@ -65,10 +65,6 @@
 </td>
 </tr>
 </table>
-
-
-
-
 
 </div>
 
