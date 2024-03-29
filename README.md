@@ -127,7 +127,7 @@
 <br>
 
 <div>
-  <img align="right" alt="codebuenozy-bitmoji" height="150px" style="border-radius:50px;" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/bitmoji/studying.png">
+  <img align="right" alt="codebuenozy-bitmoji" height="150px" style="border-radius:50px;" src="https://media.licdn.com/dms/image/D4D03AQEVMgwmjhtRLw/profile-displayphoto-shrink_800_800/0/1686320303032?e=1717027200&v=beta&t=kW5F_E4OjWM_EgK7OnuYV-E5hRVObRR3ymDDDj5bHkI">
   <br>
   <a href="https://www.youtube.com/channel/UCw-kifCLkQUem2WwKfP6xaw" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/youtube.png" target="_blank"></a>
   <a href="https://www.twitch.tv/codebuenozy" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/twitch.png" target="_blank"></a>
