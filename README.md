@@ -41,7 +41,13 @@
 <img src="./profile-3d-contrib/profile-gitblock.svg"/>
 </div>
 -->
+<br>
+<br>
+<br>
 <h2 align="center">📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀 📊</h2>
+<br>
+<br>
+<br>
 
   <div align="center">
   <p align="center">
@@ -51,6 +57,9 @@
   <br>
 </div>
 
+<br>
+<br>
+<br>
 <h2 align="center">🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀 🏆</h2>
 <br>
 <br>
@@ -64,7 +73,13 @@
   </picture>
 </div>
 
+<br>
+<br>
+<br>
 <h2 align="center">💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 💻</h2>
+<br>
+<br>
+<br>
 
 <p align="center">
  <a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="html" height="48"/></a> 
@@ -80,7 +95,13 @@
  <a href="#" target="_blank"> <img src="https://logos-marcas.com/wp-content/uploads/2021/03/Jira-Emblema.png" height="48"/> </a>
 <br>
 
+<br>
+<br>
+<br>
 <h2 align="center"> 🧑‍🏫 My Projects 🧑‍🏫</h2>
+<br>
+<br>
+<br>
 
 ###
 
