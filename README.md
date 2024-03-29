@@ -66,12 +66,8 @@
   </picture>
 </div>
 
-<br>
-<br>
-<br>
+
 <h2 align="center">💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 💻</h2>
-<br>
-<br>
 <br>
 
 <p align="center">
