@@ -110,3 +110,7 @@
 | [React Turkey Weather Router App](https://react-turkey-weather-app.vercel.app/) <h3>[Repo](https://github.com/AliAksoyy/React-Turkey-Weather-App)</h3> | ReactJS, Styled Components, Bootstrap, React Icons, Axios and Async Await, LocalStroage                                                                                  | ![movie](https://github.com/AliAksoyy/React-Turkey-Weather-App/blob/main/public/gif/maker.gif)          |
 | [React Recipe App](https://react-recipe-app-nine.vercel.app/) <h3>[Repo](https://github.com/AliAksoyy/React-Recipe-App)</h3>                           | ReactJS, Styled Components, Router, Fetch Api, LocalStorage                                                                                                              | ![earthquake](https://raw.githubusercontent.com/AliAksoyy/React-Recipe-App/main/public/gif/maker.gif)   |
 | [React Router App](https://react-router-app-three.vercel.app/) <h3>[Repo](https://github.com/AliAksoyy/React-Router-App)</h3>                          | ReactJS, React Router, External CSS                                                                                                                                      | ![react-recipe](https://raw.githubusercontent.com/AliAksoyy/React-Router-App/main/public/gif/maker.gif) |
+
+
+### Profile details card
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliAksoyy&theme=nord_bright)
