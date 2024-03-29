@@ -53,7 +53,7 @@
 
 <div align="center">
 
-<table>
+<table style="border:none">
 <tr>
 <td>
 
