@@ -105,7 +105,7 @@
 <h2 align="center">💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 💻</h2>
 <br>
 
-<div align="center" style="display: inline-block">
+<div  style="display: inline-block; margin:0 auto">
   <img align="center" alt="Badge-Windows" height="30px" width="40px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/windows.svg">
   <img align="center" alt="Badge-Linux" height="30px" width="40px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/linux.svg">
   <img align="center" alt="Badge-Git" height="30px" width="40px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/git.svg">
