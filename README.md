@@ -112,7 +112,6 @@
   </picture>
 </div>
 
-
 <br>
 
 <b><h2 align="center"> My projects</h2></b>
