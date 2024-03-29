@@ -42,7 +42,7 @@
 </div>
 -->
 
-<h2 align="center">📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀 📊</h2>
+<h2 align="center">📊 GitHub Stats 📊</h2>
 
 <div align="center">
 <table>
@@ -90,7 +90,7 @@
 
 <br>
 
-<h2 align="center">🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀 🏆</h2>
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
 <br>
 
 <div align=center>
@@ -102,8 +102,7 @@
 </div>
 
 <br>
-<br>
-<h2 align="center">💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 💻</h2>
+<h2 align="center">💻 Tech Stack 💻</h2>
 <br>
 
 <div align="center" style="display: inline-block; margin:0 auto">
@@ -135,8 +134,6 @@
   <a href="https://twitter.com/alifeyza4017" target="_blank"><img src="https://github.com/codebuenozy/codebuenozy/blob/4d4a1ea46186f4a439530bd7e184acc8dd71c325/badges/twitter.png" target="_blank"></a>
   <br><br>
 </div>
-
-<br><br>
 
 <h2 align="center" > 🧑‍🏫 My Projects 🧑‍🏫</h2>
 
