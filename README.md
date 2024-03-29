@@ -123,7 +123,6 @@
   <img align="center" alt="Badge-MongoDB" height="30px" width="40px" src="https://github.com/codebuenozy/codebuenozy/blob/ee2a1e89f8ff401a56a56b2ddbdd4560f68b43a6/icons/mongodb.svg">
 </div>
 <br>
-<br>
 <h2 align="center" > 🧑‍🏫 My Projects 🧑‍🏫</h2>
 
 ###
