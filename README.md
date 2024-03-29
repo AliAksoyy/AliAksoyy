@@ -114,3 +114,12 @@
 
 ### Profile details card
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliAksoyy&theme=nord_bright)
+
+### Top languages used in repository card
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AliAksoyy&theme=nord_bright)
+
+### Top languages in commits card
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AliAksoyy&theme=nord_bright)
+
+### GitHub stats card
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AliAksoyy&theme=nord_bright&)
