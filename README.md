@@ -98,7 +98,7 @@
 <br>
 <br>
 <br>
-<h2 align="center"> 🧑‍🏫<b> My Projects </b> 🧑‍🏫</h2>
+<h2 align="center" style="color:blue;"> 🧑‍🏫<b> My Projects </b> 🧑‍🏫</h2>
 
 ###
 
