@@ -45,27 +45,19 @@
 <h2 align="center">📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀 📊</h2>
 <br>
 
-<div align="center">
+
 
 ![GitHub Profile Summary Cards - Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliAksoyy&theme=nord_bright)
 
-</div>
 
-<div align="center">
-
-<p style="width:50%"> 
 
 ![GitHub Profile Summary Cards - Repositories Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AliAksoyy&theme=nord_bright)
 
-</p>
 
-<p style="width:50%"> 
 
 ![GitHub Profile Summary Cards - Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AliAksoyy&theme=nord_bright)
 
-</p>
 
-</div>
 
 ### GitHub stats card
 
