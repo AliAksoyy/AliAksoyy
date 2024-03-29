@@ -54,7 +54,7 @@
 <div align="center">
 
 <table >
-<tr style="border-collapse: collapse;">
+<tr style="border:none;">
 <td>
 
 ![GitHub Profile Summary Cards - Repositories Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AliAksoyy&theme=nord_bright)
