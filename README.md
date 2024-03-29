@@ -12,14 +12,6 @@
 
 <b> - 👯 I’m open to collaborate on more open source projects. </b>
 
-<div align="center">
-<p>
-<a href="https://github-profile-summary-cards.vercel.app/demo.html">Get your own cards now!!</a>
-</p>
-
-
-</div>
-
 <!--
 - 📚 Proficient in HTML, CSS, JavaScript, Python, Java, C, and Figma.
 - 🌐 Visit my [Portfolio](https://github.com/RanitManik/Portfolio-1.0) to explore my projects and achievements.
@@ -52,6 +44,36 @@
 
 <h2 align="center">📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀 📊</h2>
 <br>
+
+<div align="center">
+
+### Profile details card
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliAksoyy&theme=nord_bright)
+
+<div width="100%">
+<div width="50%">
+
+### Top languages used in repository card
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AliAksoyy&theme=nord_bright)
+
+</div>
+<div width="50%">
+
+### Top languages in commits card
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AliAksoyy&theme=nord_bright)
+
+</div>
+
+</div>
+
+### GitHub stats card
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AliAksoyy&theme=nord_bright&)
+
+</div>
 
   <div align="center">
   <p align="center">
@@ -110,16 +132,3 @@
 | [React Turkey Weather Router App](https://react-turkey-weather-app.vercel.app/) <h3>[Repo](https://github.com/AliAksoyy/React-Turkey-Weather-App)</h3> | ReactJS, Styled Components, Bootstrap, React Icons, Axios and Async Await, LocalStroage                                                                                  | ![movie](https://github.com/AliAksoyy/React-Turkey-Weather-App/blob/main/public/gif/maker.gif)          |
 | [React Recipe App](https://react-recipe-app-nine.vercel.app/) <h3>[Repo](https://github.com/AliAksoyy/React-Recipe-App)</h3>                           | ReactJS, Styled Components, Router, Fetch Api, LocalStorage                                                                                                              | ![earthquake](https://raw.githubusercontent.com/AliAksoyy/React-Recipe-App/main/public/gif/maker.gif)   |
 | [React Router App](https://react-router-app-three.vercel.app/) <h3>[Repo](https://github.com/AliAksoyy/React-Router-App)</h3>                          | ReactJS, React Router, External CSS                                                                                                                                      | ![react-recipe](https://raw.githubusercontent.com/AliAksoyy/React-Router-App/main/public/gif/maker.gif) |
-
-
-### Profile details card
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliAksoyy&theme=nord_bright)
-
-### Top languages used in repository card
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AliAksoyy&theme=nord_bright)
-
-### Top languages in commits card
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AliAksoyy&theme=nord_bright)
-
-### GitHub stats card
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AliAksoyy&theme=nord_bright&)
