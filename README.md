@@ -76,9 +76,9 @@
 
 </div>
 
-### GitHub stats card
+<!-- ### GitHub stats card
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AliAksoyy&theme=nord_bright&)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AliAksoyy&theme=nord_bright&) -->
 
 </div>
 
