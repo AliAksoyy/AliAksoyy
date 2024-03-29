@@ -54,8 +54,8 @@
 <div align="center">
 
 <table >
-<tr style="border:2px solid red !important;" >
-<td style="border:2px solid red !important;">
+<tr >
+<td class="a" >
 
 ![GitHub Profile Summary Cards - Repositories Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AliAksoyy&theme=nord_bright)
 
@@ -69,6 +69,11 @@
 </table>
 
 </div>
+<style>
+  .a{
+    border:1px solid #22aa22
+  }
+</style>
 
 ### GitHub stats card
 
