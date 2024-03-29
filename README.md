@@ -53,15 +53,17 @@
 
 <div align="center">
 
-<table style="border-collapse: collapse;">
-<tr>
+<table >
+<tr style="border-collapse: collapse;">
 <td>
 
 ![GitHub Profile Summary Cards - Repositories Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AliAksoyy&theme=nord_bright)
+
 </td>
 <td>
 
 ![GitHub Profile Summary Cards - Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AliAksoyy&theme=nord_bright)
+
 </td>
 </tr>
 </table>
